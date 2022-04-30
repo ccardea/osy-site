@@ -1,5 +1,0 @@
-remote_theme: ccardea/jekyll-theme-osy
-collections_dir: osy-collections
-collections:
-  panels:
-    output: false
