@@ -1,0 +1,4 @@
+collections_dir: osy-collections
+collections:
+  panels:
+    output: false
