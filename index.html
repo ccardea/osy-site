@@ -6,22 +6,22 @@ title: OSY Home
 {%  assign mid-panel = site.panels | where: "location", "idx-mid" | first %}
 {%  assign right-panel = site.panels | where: "location", "idx-right" | first %}
 <div class="w3-cell-row w3-theme" style="width:100%">
-    <section class="w3-panel w3-border-right w3-theme-light w3-cell w3-mobile">
-        <header class="w3-text-theme">
+    <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
+        <header>
             <h2>{{ left-panel.title }}</h2>
         </header>
         <div> 
             {{ left-panel.content }}
         </div>
     </section>
-    <section class="w3-panel w3-theme-light w3-cell w3-mobile">
-        <header class="w3-text-theme">
+    <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
+        <header>
             <h2>{{ mid-panel.title }}</h2>
         </header>
         <div>{{ mid-panel.content }}</div>
     </section>
-    <section class="w3-panel w3-border-left w3-theme-light w3-cell w3-mobile">
-        <header class="w3-text-theme">
+    <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
+        <header>
             <h2>{{ right-panel.title }}</h2>
         </header>
         <div>{{ right-panel.content }}</div>
