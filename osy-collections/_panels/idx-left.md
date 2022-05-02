@@ -1,8 +1,9 @@
 ---
 location: idx-left
-title: Left-Panel
+title: Left Panel
 ---
-yada yada yo
+yada yad yo!
+
 - yada
 - yada yada
 - yo yo yo
