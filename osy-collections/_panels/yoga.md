@@ -4,4 +4,4 @@ title: Yoga
 
 ### This section is under construction
 
-*Please be patient*
+*Please check back soon!*
