@@ -1,10 +1,10 @@
 ---
 layout: default
-title: OSY Home
 ---
-{%  assign left-panel = site.panels | where: "title", "Samkhya" | first %}
-{%  assign mid-panel = site.panels | where: "title", "Yoga" | first %}
-{%  assign right-panel = site.panels | where: "title", "Kundalini" | first %}
+{% assign left-panel = site.panels[page.panel-left] %}
+{% assign mid-panel = site.panels[page.panel-mid] %}
+{% assign right-panel = site.panels[page.panel-right] %}
+
 <div class="w3-cell-row w3-theme" style="width:100%">
     <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
         <header>
