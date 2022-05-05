@@ -1,0 +1,22 @@
+- section: Samkhya
+  pages:
+    - title: Page S1
+      url: /samkhya/page-s1.html
+    - title: Page S2
+      url: /samkhya/page-s2.html
+    - title: Page S3
+      url: /samkhya/page-s3.html
+- section: Yoga
+  pages:
+    - title: Page Y1
+      url: /yoga/page-y1.html
+    - title: Page Y2
+      url: /yoga/page-y2.html
+    - title: Page Y3
+      url: /yoga/page-y3.html
+- section: Kundalini
+  pages:
+    - title: Page K1
+      url: /kundalini/page-k1.html
+    - title: Page K2
+      url: /kundalini/page-k2.html
