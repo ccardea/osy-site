@@ -5,8 +5,8 @@ layout: default
     <button class="w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
     {% for item in site.data.contents %}
         <h4> {{ item.section }} </h4>
-        {% for page in item.pages %}
-            <a href="{{ page.url }}" class="w3-bar-item w3-button">{{ page.title }}</a>
+        {% for article in item.articles %}
+            <a href="{{ article.url }}" class="w3-bar-item w3-button">{{ article.title }}</a>
         {% endfor %}
     {% endfor %}
 </div>

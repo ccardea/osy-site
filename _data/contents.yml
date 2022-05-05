@@ -1,5 +1,5 @@
 - section: Samkhya
-  pages:
+  articles:
     - title: Page S1
       url: /samkhya/page-s1.html
     - title: Page S2
@@ -7,7 +7,7 @@
     - title: Page S3
       url: /samkhya/page-s3.html
 - section: Yoga
-  pages:
+  articles:
     - title: Page Y1
       url: /yoga/page-y1.html
     - title: Page Y2
@@ -15,7 +15,7 @@
     - title: Page Y3
       url: /yoga/page-y3.html
 - section: Kundalini
-  pages:
+  articles:
     - title: Page K1
       url: /kundalini/page-k1.html
     - title: Page K2
