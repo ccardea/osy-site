@@ -6,7 +6,12 @@ layout: default
     {% for item in site.data.contents %}
         <h4> {{ item.section }} </h4>
         {% for article in item.articles %}
-            <a href="{{ article.url }}" class="w3-bar-item w3-button">{{ article.title }}</a>
+            {% if article.url == page.url %}
+                {% assign cls = "w3-bar-item w3-button w3-theme" %}
+            {% else %}
+                {% assign cls = "w3-bar-item w3-button" %}
+            {% endif %}
+            <a href="{{ article.url }}" class="{{ cls }}">{{ article.title }}</a>
         {% endfor %}
     {% endfor %}
 </div>
