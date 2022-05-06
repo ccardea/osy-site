@@ -4,7 +4,7 @@ layout: default
 <div class="w3-container w3-sidebar w3-bar-block w3-collapse w3-theme-light" style="width:250px" id="site-toc">
     <button class="w3-button w3-large w3-hide-large w3-right" onclick="w3_close()">&times;</button>
     <h4>Contents</h4>
-    {% assign section = site.data.contents[page.section] %}
+    {% assign section = site.data.contents[page.category] %}
     {% for article in section.articles %}
         {% if article.url == page.url %}
             {% assign cls = "w3-bar-item w3-button w3-theme-l1" %}

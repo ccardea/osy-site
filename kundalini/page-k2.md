@@ -1,6 +1,6 @@
 ---
 layout: section
-section: Kundalini
+category: kundalini
 title: Page K2
 ---
 This is {{ page.title }}

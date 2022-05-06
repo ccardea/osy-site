@@ -1,6 +1,6 @@
 ---
 layout: section
-section: Yoga
+category: yoga
 title: Page Y3
 ---
 This is {{ page.title }}

@@ -1,4 +1,4 @@
-Samkhya:
+samkhya:
   articles:
     - link-text: Samkhya Home
       url: /samkhya/welcome.html
@@ -8,7 +8,7 @@ Samkhya:
       url: /samkhya/page-s2.html
     - link-text: Page S3
       url: /samkhya/page-s3.html
-Yoga:
+yoga:
   articles:
     - link-text: Yoga Home
       url: /yoga/welcome.html
@@ -18,7 +18,7 @@ Yoga:
       url: /yoga/page-y2.html
     - link-text: Page Y3
       url: /yoga/page-y3.html
-Kundalini:
+kundalini:
   articles:
     - link-text: Kundalini Home
       url: /kundalini/welcome.html

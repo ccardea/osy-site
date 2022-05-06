@@ -1,6 +1,6 @@
 ---
 layout: section
+category: samkhya
 title: Page S2
-section: Samkhya
 ---
 This is {{ page.title }}

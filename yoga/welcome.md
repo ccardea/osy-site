@@ -1,7 +1,7 @@
 ---
-layout: section
+layout: section-index
+category: yoga
 title: Welcome To Yoga Home
-section: Yoga
 ---
 <!--{% assign panel = site.panels[1] %}
 

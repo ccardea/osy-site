@@ -1,0 +1,12 @@
+---
+layout: section
+---
+{% assign posts = site.posts | where: "category", page.category %}
+{% for post in posts %}
+    <header>
+        <h3>{{ post.title }}</h3>
+    </header>
+    <!--div>
+        {{ post.content }}
+    </div>-->
+{% endfor %}
