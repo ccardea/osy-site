@@ -5,3 +5,5 @@ collections:
       - samkhya.md
       - yoga.md
       - kundalini.md
+incremental: true
+timezone: America/New_York
