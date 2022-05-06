@@ -1,5 +1,7 @@
 Samkhya:
   articles:
+    - title: Samkhya Home
+      url: /samkhya/index.html
     - title: Page S1
       url: /samkhya/page-s1.html
     - title: Page S2
@@ -8,6 +10,8 @@ Samkhya:
       url: /samkhya/page-s3.html
 Yoga:
   articles:
+    - title: Yoga Home
+      url: /yoga/index.html
     - title: Page Y1
       url: /yoga/page-y1.html
     - title: Page Y2
