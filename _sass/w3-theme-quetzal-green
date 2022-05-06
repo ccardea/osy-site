@@ -25,4 +25,4 @@
 h2, h3, h4, h5, h6 {
     color:#006e6d !important 
 }
-.w3-button:hover{color:#fff!important;background-color:#00c0bd!important}
+.w3-button:hover{color:#000!important;background-color:#affffe!important}
