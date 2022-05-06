@@ -26,7 +26,9 @@ layout: default
     </section>
     <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
         <header>
-            <h2>{{ right-panel.title }}</h2>
+            <a href="{{ right-panel.home }}" style="text-decoration:none"> 
+                <h2>{{ right-panel.title }}</h2>
+            </a>
         </header>
         <div class="w3-panel w3-text-theme w3-border-theme w3-border">
             {{ right-panel.content }}

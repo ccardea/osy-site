@@ -11,7 +11,7 @@ layout: default
         {% else %}
             {% assign cls = "w3-bar-item w3-button" %}
         {% endif %}
-        <a href="{{ article.url }}" class="{{ cls }}">{{ article.title }}</a>
+        <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
     {% endfor %}
 </div>
 <article class="w3-container w3-main w3-theme-light" style="Margin-left:250px">
