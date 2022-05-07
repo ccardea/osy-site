@@ -6,32 +6,54 @@ layout: default
 {% assign right-panel = site.panels[page.panel-right] %}
 
 <div class="w3-cell-row w3-theme" style="width:100%">
-    <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
-        <header>
-            <a href="{{ left-panel.home }}" style="text-decoration:none"><h2>{{ left-panel.title }}</h2></a>
-        </header>
-        <div class="w3-panel w3-border-theme w3-text-theme w3-border"> 
-            {{ left-panel.content }}
+    <section class="w3-panel w3-theme-light w3-border-left  w3-cell w3-mobile">
+        <div class="w3-panel w3-border-theme w3-border">
+            <header style="text-align:center">
+                <a href="{{ left-panel.home }}" style="text-decoration:none"><h2>{{ left-panel.title }}</h2></a>
+            </header>
+        
+            <div style="text-align:center">
+                <a href="{{ left-panel.home }}" style="text-decoration:none">
+                    <img src="{{left-panel.image}}" alt="{{ left-panel.alt-text }}">
+                </a>
+            </div>
+            <div class="w3-panel w3-text-theme "> 
+                {{ left-panel.content }}
+            </div>
         </div>
     </section>
     <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
-        <header>
-            <a href="{{ mid-panel.home }}" style="text-decoration:none">
-                <h2>{{ mid-panel.title }}</h2>
-            </a>
-        </header>
-        <div class="w3-panel w3-text-theme w3-border-theme w3-border">
-            {{ mid-panel.content }}
+        <div class="w3-panel w3-border-theme w3-border">
+            <header style="text-align:center">
+                <a href="{{ mid-panel.home }}" style="text-decoration:none">
+                    <h2>{{ mid-panel.title }}</h2>
+                </a>
+            </header>
+            <div style="text-align:center">
+                <a href="{{ mid-panel.home }}" style="text-decoration:none">
+                    <img src="{{mid-panel.image}}" alt="{{ mid.panel.alt-text }}">
+                </a>
+            </div>
+            <div class="w3-panel w3-text-theme">
+                {{ mid-panel.content }}
+            </div>
         </div>
     </section>
     <section class="w3-panel w3-theme-light w3-border-left w3-cell w3-mobile">
-        <header>
-            <a href="{{ right-panel.home }}" style="text-decoration:none"> 
-                <h2>{{ right-panel.title }}</h2>
-            </a>
-        </header>
-        <div class="w3-panel w3-text-theme w3-border-theme w3-border">
-            {{ right-panel.content }}
+        <div class="w3-panel w3-border-theme w3-border">
+            <header style="text-align:center">
+                <a href="{{ right-panel.home }}" style="text-decoration:none">
+                    <h2>{{ right-panel.title }}</h2>
+                </a>
+            </header>
+            <div style="text-align:center">
+                <a href="{{ right-panel.home }}" style="text-decoration:none">
+                    <img src="{{right-panel.image}}" alt="{{ right.panel.alt-text }}">
+                </a>
+            </div>
+            <div class="w3-panel w3-text-theme">
+                {{ right-panel.content }}
+            </div>
         </div>
     </section>
 </div> 
