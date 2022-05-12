@@ -14,12 +14,20 @@ layout: default
         <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
     {% endfor %}
 </div>
+<div class="w3-sidebar w3-collapse w3-theme-light" style="width:250px;right:0">
+
+</div>
 <article class="w3-container w3-main w3-theme-light" style="Margin-left:250px">
     <header">
         <button class="w3-button w3-large w3-hide-large" onclick="w3_open()">&#9776;</button>
         <h2 style="color:#fff">{{ page.title }}</h2>
     </header>
     <section class="w3-text-theme">
+        <!--div class="w3-container"-->
+            {% if page.image %}
+            <img src="{{page.image}}" alt="{{ page.alt-text }}" class="w3-image" style="float:left;margin-right:16px">
+            {% endif %}
+        <!--/div-->
         {{ content }}
     </section>
 </article>

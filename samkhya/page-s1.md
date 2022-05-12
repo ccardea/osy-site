@@ -2,5 +2,7 @@
 layout: section
 category: samkhya
 title: Page S1
+image: /assets/images/test-size.png
+alt-text: "empty circle logo"
 ---
-This is {{ page.title }}
+{{ page.title }} has not materialized.

@@ -8,6 +8,9 @@ layout: section
         <p>{{ post.date }}</p>
     </header>
     <div class="w3-container">
+        {% if post.image %}
+        <img src="{{post.image}}" alt="{{ post.alt-text }}" class="w3-image" style="float:left;margin-right:16px">
+    {% endif %}
         {{ post.content }}
     </div>
 {% endfor %}

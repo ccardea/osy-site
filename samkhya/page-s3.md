@@ -3,4 +3,4 @@ layout: section
 category: samkhya
 title: Page S3
 ---
-This is {{ page.title }}
+{{ page.title }} is also a placeholder.
