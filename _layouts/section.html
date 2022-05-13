@@ -1,40 +1,36 @@
 ---
 layout: default
 ---
-
-<div class="w3-container w3-sidebar w3-bar-block w3-collapse w3-theme-light" style="width:250px" id="site-toc">
-    <button class="w3-button w3-large w3-hide-large w3-right" onclick="w3_close()">&times;</button>
-    <h4>Contents</h4>
-    {% assign section = site.data.contents[page.category] %}
-    {% for article in section.articles %}
-        {% if article.url == page.url %}
-            {% assign cls = "w3-bar-item w3-button w3-theme-l1" %}
-        {% else %}
-            {% assign cls = "w3-bar-item w3-button" %}
-        {% endif %}
-        <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
-    {% endfor %}
+<div class="w3-row w3-theme-light">
+    <div class="w3-col l3 w3-hide-small w3-hide-medium">
+        <div class="w3-bar-block w3-container">
+            <h4>Contents</h4>
+            {% assign section = site.data.contents[page.category] %}
+            {% for article in section.articles %}
+                {% if article.url == page.url %}
+                    {% assign cls = "w3-bar-item w3-button w3-theme-l1" %}
+                {% else %}
+                    {% assign cls = "w3-bar-item w3-button" %}
+                {% endif %}
+                <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="w3-col l6 w3-border">
+        <div class="w3-container w3-text-theme">
+            <div>
+                <h2>{{ page.title}}</h2>
+                <hr>
+            </div>
+            <div class="w3-panel" style="float:left">
+                {% if page.image %}
+                <img src="{{page.image}}" alt="{{ page.alt-text }}" class="w3-image">
+                {% endif %}
+            </div>
+            {{ content }}
+        </div>
+    </div>
+    <div class="w3-col l3 w3-hide-small w3-hide-medium">
+        <p></p>
+    </div>
 </div>
-
-<article class="w3-container w3-main w3-theme-light" style="margin-left:250px">
-    <header">
-        <button class="w3-button w3-large w3-hide-large" onclick="w3_open()">&#9776;</button>
-        <h2 style="color:#fff">{{ page.title }}</h2>
-    </header>
-    <section class="w3-text-theme">
-        {% if page.image %}
-        <img src="{{page.image}}" alt="{{ page.alt-text }}" class="w3-image" style="float:left;margin-right:16px;">
-        {% endif %}
-        {{ content }}
-    </section>
-</article>
-
-<script>
-    function w3_open() {
-      document.getElementById("site-toc").style.display = "block";
-    }
-    
-    function w3_close() {
-      document.getElementById("site-toc").style.display = "none";
-    }
-    </script>
