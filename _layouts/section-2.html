@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="w3-row w3-theme-light">
+    <div class="w3-quarter w3-container w3-bar-block w3-hide-small" id="section-toc">
+        <!--button class="w3-button w3-large w3-hide-large w3-right" onclick="w3_close()">&times;</button-->
+    <h4>Contents</h4>
+    {% assign section = site.data.contents[page.category] %}
+    {% for article in section.articles %}
+        {% if article.url == page.url %}
+            {% assign cls = "w3-bar-item w3-button w3-theme-l1" %}
+        {% else %}
+            {% assign cls = "w3-bar-item w3-button" %}
+        {% endif %}
+        <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
+    {% endfor %}
+    </div>
+    <article class="w3-half w3-container">
+        <header">
+            <a href="javascript:void()" class="w3-button w3-large w3-hide-large" onclick="myFunction()">&#9776;</a>
+            <nav id="demo" class="w3-bar-block w3-hide w3-hide-large w3-hide-medium">
+                {% assign section = site.data.contents[page.category] %}
+                {% assign cls = "w3-bar-item w3-button" %}
+                {% for article in section.articles %}
+                    <a href="{{ article.url }}" class="{{ cls }}">{{ article.link-text }}</a>
+                {% endfor %} 
+            </nav>
+            <h2 style="color:#fff">{{ page.title }}</h2>
+        </header>
+        {{ content }}
+    </article>
+    <div class="w3-quarter w3-hide-small"></div>
+</div>
+
+<script>
+    function w3_open() {
+      document.getElementById("section-toc").style.display = "block";
+    }
+    
+    function w3_close() {
+      document.getElementById("section-toc").style.display = "none";
+    }
+</script>
+
+<script>
+    function myFunction() {
+      var x = document.getElementById("demo");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else { 
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+    </script>
