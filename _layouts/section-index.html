@@ -3,14 +3,16 @@ layout: section
 ---
 {% assign posts = site.posts | where: "category", page.category %}
 {% for post in posts %}
-    <header class="w3-container w3-border-theme w3-border-top">
-        <h3>{{ post.title }}</h3>
-        <p>{{ post.date }}</p>
-    </header>
-    <div class="w3-container">
-        {% if post.image %}
-        <img src="{{post.image}}" alt="{{ post.alt-text }}" class="w3-image" style="float:left;margin-right:16px">
-    {% endif %}
+    <div class="w3-border-theme w3-border-bottom">
+        <header class="w3-container">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.date }}</p>
+        </header>
+        <div class="w3-panel" style="float:left">
+            {% if post.image %}
+                <img src="{{post.image}}" alt="{{ post.alt-text }}" class="w3-image">
+            {% endif %}
+        </div>
         {{ post.content }}
     </div>
 {% endfor %}
