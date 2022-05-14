@@ -8,11 +8,11 @@ layout: section
             <h3>{{ post.title }}</h3>
             <p>{{ post.date }}</p>
         </header>
-        <div class="w3-panel" style="float:left">
-            {% if post.image %}
+        {% if post.image %}
+            <div class="w3-panel" style="float:left">
                 <img src="{{post.image}}" alt="{{ post.alt-text }}" class="w3-image">
-            {% endif %}
-        </div>
+            </div>
+        {% endif %}
         {{ post.content }}
     </div>
 {% endfor %}
