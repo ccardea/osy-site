@@ -26,3 +26,11 @@ kundalini:
       url: /kundalini/page-k1.html
     - link-text: Page K2
       url: /kundalini/page-k2.html
+home:
+  articles:
+    - link-text: Samkhya
+      url: /samkhya/welcome.html
+    - link-text: Yoga 
+      url: /yoga/welcome.html
+    - link-text: Kundalini
+      url: /kundalini/welcome.html
