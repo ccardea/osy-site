@@ -5,19 +5,4 @@ title: Page S1
 image: /assets/images/test-size.png
 alt-text: "empty circle logo"
 ---
-<!--{{ page.title }} has not materialized.-->
-
-### What
-Samkhya is one of the oldest and most influential schools of Indian philosophy. It was, to the ancient world, what science is to the modern world. Academics have claimed that Samkhya was the first attempt at science; that is, to explain how nature works without reference to a divine being. It is remarkable for its level of intelligence, logical consistency, and similarity to concepts of modern physics. At the same time, its view of the world was quite different from our own.
-
-### Why
-Samkhya philsophy has great relevance to the practice of yoga. It is the source of several concepts that, when applied to yoga practice, provide direction and allow yogis to deepen and expand their practice. In addition, anyone who is interested in Indian thought will benefit from understanding Samkhya philosophy. Since it was considered to be prior knowledge and generally understood, Samkhya concepts often appear in other texts without explanation. Today, since Samkhya is not widely known, our understanding of these texts is hindered. This is especially true with respect to the Yoga Sutras.
-
-### Who
-The ancient sage Kapila is universally credited with being the first to present Samkhya philosophy in a systematic way. He was greatly revered in ancient times, and will be the subject of a longer article, along with his successors who expanded and elaborated on the teaching.
-
-### When
-Bits of Samkhya philosophy can be found in some of the oldest Indian texts. A good example is the Bhagavad Gita, in which Krishna claims that Kapila was one of his prior incarnations. The earlist Samkhya texts are much older that that. Its zenith was probably around the time of the Samkhya Karika until around the eighth century, when the more idealist Vedanta gained favor. 
-
-### Where & How
-This site is intended to provide a resource for basic knowledge of Samkhya philosophy. Rather than follow the traditional style of a sutra with commentary, the site will focus on topics of interest and present the teachings of the sutras through articles and possibly other modern media. Links to topics can be found in the sidebar, or on mobile, by clicking the menu at upper left.
+{{ page.title }} has not materialized.
