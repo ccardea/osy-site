@@ -1,7 +1,7 @@
 ---
 layout: section
 category: samkhya
-title: Overview
+title: Samkhya Overview
 image: 
 alt-text:
 ---
