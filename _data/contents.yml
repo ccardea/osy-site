@@ -2,8 +2,8 @@ samkhya:
   articles:
     - link-text: Samkhya Home
       url: /samkhya/welcome.html
-    - link-text: Page S1
-      url: /samkhya/page-s1.html
+    - link-text: Overview
+      url: /samkhya/overview.html
     - link-text: Page S2
       url: /samkhya/page-s2.html
     - link-text: Page S3
