@@ -22,9 +22,9 @@ kundalini:
   articles:
     - link-text: Kundalini Home
       url: /kundalini/welcome.html
-    - link-text: Page K1
+    - link-text: Author's Note
       url: /kundalini/page-k1.html
-    - link-text: Page K2
+    - link-text: 
       url: /kundalini/page-k2.html
 home:
   articles:
