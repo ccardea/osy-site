@@ -2,12 +2,12 @@ samkhya:
   articles:
     - link-text: Samkhya Home
       url: /samkhya/welcome.html
-    - link-text: Overview
-      url: /samkhya/overview.html
-    - link-text: Page S2
-      url: /samkhya/page-s2.html
-    - link-text: Page S3
-      url: /samkhya/page-s3.html
+    - link-text: 
+      url: /samkhya/
+    - link-text: 
+      url: /samkhya/
+    - link-text: 
+      url: /samkhya/
 yoga:
   articles:
     - link-text: Yoga Home
