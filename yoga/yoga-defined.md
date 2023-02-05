@@ -39,13 +39,16 @@ Usually translated as "the mind" or "consciousness", neither is exact. *Citta* i
 
 #### *vrtti*
 *Vrtti* is variously translated as fluctuations, modifications, or functions, among other things. Patanjali enumerates five *citta-vrtti*: 
-- *Pramāṇa* = the means of right knowledge, which are perception, inference, and word;
+- *Pramāṇa* = the means of right knowledge, which are: 
+    - perception = the operation of the senses,
+    - inference = all forms of reasoning and logic, and
+    - word = learning from trusted sources like books and teachers
 - *viparyaya* = false, erroneous, or mistaken knowledge;
 - *vikalpa* = knowledge that is verbal only, without any underlying object;
 - *nidrā* = sleep;
 - *smṛti* = memory.
 
-*Citta* is that which is known by these five *vrtti*, which really are not so much fluctuations but are functions of *citta*. At this point, we are not too concerned with what are the five *citta-vrtti*. Sutra 1.5 tells us that they can be either *klista* or *a-klista*, that is, causing affliction or not causing affliction. That will have more relevance for us as we begin to study the 8 Limbs.
+*Citta* is that which is known by these five *vrtti*, which really are not so much fluctuations but are functions of *citta*. 
 
 #### *nirodha*
 *Nirodha* is variously translated as restraint, restriction, focusing, or stopping. There seems to be a bit of conflict there, since stopping is a lot different from restraining or focusing. In reality, *nirodha* is both the act of focusing or restraining and the state of complete cessation of *citta-vrtti*. Complete cessation is achieved only by the most advanced yogis. Students should not attempt to sit in meditation and stop their mind. All of the Eight Limbs are efforts directed toward calming and focusing the *citta-vrtti*.
