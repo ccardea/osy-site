@@ -21,7 +21,7 @@ This is where we are now, the normal condition of human consciousness. As we go 
 
 ### Sutra 1.3
 *Tadā draṣṭuḥ svarūpe'vasthānam*  
-Then (*tadā*), the Seer (*draṣṭuḥ*) abides in (*avasthānam*) its essence (*sva-rūpa*).
+Then (*tadā*), the Seer (*draṣṭuḥ*) abides in (*avasthānam*) its own-form (*sva-rūpa*).
 
 This is where we want to go. The self no longer falsely identifies with the fluctuations of the mind, it now correctly understands its real nature.
 
