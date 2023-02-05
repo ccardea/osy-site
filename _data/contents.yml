@@ -12,10 +12,10 @@ yoga:
   articles:
     - link-text: Yoga Home
       url: /yoga/welcome.html
-    - link-text: 
-      url: /yoga/page-y1.html
-    - link-text: 
-      url: /yoga/page-y2.html
+    - link-text: What Is Yoga?
+      url: /yoga/yoga-defined.html
+    - link-text: The Eight Limbs
+      url: /yoga/8-limbs.html
     - link-text: 
       url: /yoga/page-y3.html
 kundalini:
