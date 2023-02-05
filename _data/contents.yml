@@ -2,29 +2,29 @@ samkhya:
   articles:
     - link-text: Samkhya Home
       url: /samkhya/welcome.html
-    - link-text: Overview
-      url: /samkhya/overview.html
-    - link-text: Page S2
-      url: /samkhya/page-s2.html
-    - link-text: Page S3
-      url: /samkhya/page-s3.html
+    - link-text: 
+      url: /samkhya/
+    - link-text: 
+      url: /samkhya/
+    - link-text: 
+      url: /samkhya/
 yoga:
   articles:
     - link-text: Yoga Home
       url: /yoga/welcome.html
-    - link-text: Page Y1
+    - link-text: 
       url: /yoga/page-y1.html
-    - link-text: Page Y2
+    - link-text: 
       url: /yoga/page-y2.html
-    - link-text: Page Y3
+    - link-text: 
       url: /yoga/page-y3.html
 kundalini:
   articles:
     - link-text: Kundalini Home
       url: /kundalini/welcome.html
-    - link-text: Page K1
-      url: /kundalini/page-k1.html
-    - link-text: Page K2
+    - link-text: Author's Note
+      url: /kundalini/note-1.html
+    - link-text: 
       url: /kundalini/page-k2.html
 home:
   articles:
