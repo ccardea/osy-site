@@ -1,25 +1,9 @@
 ---
 layout: section
 category: yoga
-title: Elimination of Impurity
+title: Elimination of Impurities
 ---
-In Asta-Anga Yoga, elimination of impurity is accomplished through the yamas and niyamas. Following their definitions, Patanjali explains the philosophy behind them. Following that, the yamas and niyamas are discussed individually.
-
-### Sutra 2.30
-The *yamas* are:  
-- *Ahiṁsā* = not-harming,
-- *satya* = truthfulness,
-- *asteya* = not-stealing,
-- *brahmacarya* = continence,
-- *aparigrahā* = *apari* the opposite of + *graha* grasping, greed, avarice
-
-### Sutra 2.32 
-The *niyamas* are:
-- *Śauca* = Cleansing, purifying
-- *santoṣa* = contentment
-- *tapaḥ* = austerity
-- *svādhyāya* = study of scriptures, chanting of mantras
-- *iśvara-praṇidhāna* = devotion to isvara, the supreme being or god
+In the original text of the Yoga Sutras, the two sutras presented here come after *yama* and *niyama* have been defined. Old School Yoga presents them first in order to emphasize the purpose of *yama* and *niyama*, which is elimination of impurities. Also, in these sutras, we learn what is meant by impurity.
 
 ### Sutra 2.33
 *Vitarka bādhane pratipakṣa-bhāvanam*  
@@ -28,7 +12,7 @@ The *niyamas* are:
 - *pratipakṣa* = contrary, adverse
 - *bhāvanam* = creating, manifesting; contemplation
 
-Disturbing thoughts [should be countered by] cultivating the opposites
+Disturbing thoughts [should be countered by] cultivating the opposites.
 
 ### Sutra 2.34
 *Vitarkā hiṁsa-adayaḥ kṛta-kārita-anumoditā lobha-krodha-moha-pūrvakā mṛdu-madhya-adhimātrā duḥkha-ajñāna-ananta-phalā iti pratipakṣa-bhāvanam*  
@@ -51,9 +35,13 @@ Disturbing thoughts [should be countered by] cultivating the opposites
 - *iti* = so, thus, in this manner
 - *pratipakṣa-bhāvanam* = cultivating the opposites
 
-Harmful thinking arising from lust, anger, and greed; whether done, caused to be done, or approved; whether mild, medium, or excessive; results in unending ignorance and sorrow, therefore the yogi should cultivate the opposites.
+Harmful thinking arising from delusion, anger, and greed; whether done, caused to be done, or approved; whether mild, medium, or excessive; results in unending ignorance and sorrow, therefore, the yogi should cultivate the opposites.
 
 #### Discussion
-Here, Patanjali is explaining why the yogi must practice the *yamas* and *niyamas*. The impurities that the yogi seeks to eliminate are those harmful thoughts and actions arising from delusion, anger, and greed. Elimination is desired because they result in unending ignorance and sorrow. The means of elimination is manifesting or bringing into being their opposites. The opposites are *yama* and *niyama*.
+Here, Patanjali is explaining why the yogi practices *yama* and *niyama*. The impurities that the yogi seeks to eliminate are those harmful thoughts and actions arising from delusion, anger, and greed. Elimination is desired because the harmful activities inevitably come to fruition as unending ignorance and sorrow. If the yogi engages in things such as violence, lying, stealing, etc., his life is bound to be beset by trouble and sorrow. In these conditions, calming of the *citta-vrrti* is impossible. 
 
-Patanjali brings out the subtle point that the yogi cannot avoid the unwanted results by simply not getting his own hands dirty. The results are the same whether he is the actual perpetrator, the mastermind, or simply approves. Similarly, reducing his level of participation to just a little bit will not get the desired result. The goal is elimination. 
+It must be understood that the undesireable conditions resulting from harmful activities are due to the natural forces of karma. They are not thought of as punishments meted out by an offended god. Karma is thought of as operating like the laws of physics, every action has an equal and opposite reaction. 
+
+Patanjali brings out the point that the yogi cannot avoid the unwanted results by simply not getting his own hands dirty. The results are the same whether he is the actual perpetrator, the mastermind, or simply approves. Similarly, reducing his level of participation to just a little bit will not get the desired result. The goal is elimination. 
+
+The means of elimination is manifesting or bringing into being their opposites. The opposites are *yama* and *niyama*.  
