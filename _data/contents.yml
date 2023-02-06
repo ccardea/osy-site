@@ -12,12 +12,14 @@ yoga:
   articles:
     - link-text: Yoga Home
       url: /yoga/welcome.html
+    - link-text: First Visit? Start Here
+      url: /yoga/note-1.html
+    - link-text:
+      url: /yoga/yoga-defined.html
     - link-text: 
-      url: /yoga/page-y1.html
+      url: /yoga/8-limbs.html
     - link-text: 
-      url: /yoga/page-y2.html
-    - link-text: 
-      url: /yoga/page-y3.html
+      url: /yoga/
 kundalini:
   articles:
     - link-text: Kundalini Home
