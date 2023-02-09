@@ -43,7 +43,7 @@ Usually translated as "the mind" or "consciousness", neither is exact. *Citta* i
     - perception = the operation of the senses,
     - inference = all forms of reasoning and logic, and
     - word = learning from trusted sources like books and teachers
-- *viparyaya* = mis-perception resulting in false or mistaken knowledge;
+- *viparyaya* = false or mistaken knowledge;
 - *vikalpa* = knowledge that is verbal only, without any underlying object;
 - *nidrā* = sleep;
 - *smṛti* = memory.
@@ -51,7 +51,7 @@ Usually translated as "the mind" or "consciousness", neither is exact. *Citta* i
 *Citta* is that which is known by these five *vrtti*, which really are not so much fluctuations but are functions of *citta*. 
 
 #### *nirodha*
-*Nirodha* is variously translated as restraint, restriction, focusing, or stopping. There seems to be a bit of conflict there, since stopping is a lot different from restraining or focusing. In reality, *nirodha* is both the act of focusing or restraining and the state of complete cessation of *citta-vrtti*. Only by the most advanced yogis get complete cessation. Students should not attempt to sit in meditation and stop their mind. All of the Eight Limbs are efforts directed toward calming and focusing the *citta-vrtti*. 
+*Nirodha* is variously translated as restraint, restriction, focusing, or stopping. There seems to be a bit of conflict there, since stopping is a lot different from restraining or focusing. In reality, *nirodha* is both the act of focusing or restraining and the state of complete cessation of *citta-vrtti*. Only the most advanced yogis get complete cessation. Students should not attempt to sit in meditation and stop their mind. The Eight Limbs contains methods that help the yogi to calm and focus the *citta-vrtti*. 
 
 ### Sutra 1.5
 *Vṛttayaḥ pañcatayyaḥ kliṣṭā akliṣṭāḥ* 

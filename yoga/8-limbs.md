@@ -3,7 +3,7 @@ layout: section
 category: yoga
 title: Introduction To The 8 Limbs (Asta-Anga) Yoga
 ---
-Many people believe that the *asta-anga* portion of the sutras was inserted into the original text, either by Patanjali himself because it contains some useful definitions, or by a later source. Old School Yoga takes the position that it is a later addition, and we will see evidence of that.
+Many people believe that the *asta-anga* portion of the sutras was inserted into the original text, either by Patanjali himself because it contains some useful definitions, or by a later source. Old School Yoga takes the position that it is a later addition, and evidence of that will become apparent in other parts of the discussion.
 
 ### Sutra 2.28
 *Yoga-aṅga-anuṣṭhānād-aśuddhi-kṣaye jñāna-dīptir-ā-viveka-khyāteḥ*
@@ -46,11 +46,13 @@ The eight limbs can be classified as:
 - Elimination of Impurity
     - yama
     - niyama
+    - dhyana
 - Physical Practices
     - asana
     - pranayama
 - Illumination of Understanding
     - pratyahara
     - dharana
-    - dhyana
     - samadhi
+
+Each of the limbs will be discussed individually.
