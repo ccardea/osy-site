@@ -3,8 +3,6 @@ layout: section
 category: yoga
 title: Introduction To The 8 Limbs (Asta-Anga) Yoga
 ---
-Many people believe that the *asta-anga* portion of the sutras was inserted into the original text, either by Patanjali himself because it contains some useful definitions, or by a later source. Old School Yoga takes the position that it is a later addition, and evidence of that will become apparent in other parts of the discussion.
-
 ### Sutra 2.28
 *Yoga-aṅga-anuṣṭhānād-aśuddhi-kṣaye jñāna-dīptir-ā-viveka-khyāteḥ*
 - *yoga* = yoga
@@ -22,7 +20,7 @@ Many people believe that the *asta-anga* portion of the sutras was inserted into
 By practicing the limbs of yoga, [and with] the elimination of impurity, [there arises] the illumination of understanding leading to discernment [of self from not-self] by the faculty of discrimination.
 
 #### Discussion
-*Viveka-khyāteḥ*, that is the ability to differentiate the self and the not-self by the faculty of discrimination, is the end game of the ancient yoga practice. When the yogi can do this continuously, then he abides in his own-form. The important points are: 
+*Viveka-khyāteḥ*, that is, the ability to differentiate the self and the not-self by the faculty of discrimination, is the end game of the ancient yoga practice. When the yogi can do this continuously, then he abides in his own-form. The important points are: 
 1. The limbs of yoga are the methods. They are concerned with
 1. Elimination of impurity, and
 1. Illumination of understanding. 
