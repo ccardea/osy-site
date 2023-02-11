@@ -2,8 +2,8 @@ samkhya:
   articles:
     - link-text: Samkhya Home
       url: /samkhya/welcome.html
-    - link-text: 
-      url: /samkhya/
+    - link-text: Coming Soon!
+      url: /samkhya/upcoming.html
     - link-text: 
       url: /samkhya/
     - link-text: 
@@ -14,10 +14,18 @@ yoga:
       url: /yoga/welcome.html
     - link-text: First Visit? Start Here
       url: /yoga/note-1.html
-    - link-text:
+    - link-text: What Is Yoga?
       url: /yoga/yoga-defined.html
-    - link-text: 
+    - link-text: The Eight Limbs
       url: /yoga/8-limbs.html
+    - link-text: Elimination of Impurities
+      url: /yoga/elimination.html
+    - link-text: Ethical Conduct
+      url: /yoga/yama.html
+    - link-text: Coming Soon!
+      url: /yoga/upcoming.html
+    - link-text: 
+      url: /yoga/niyama.html
     - link-text: 
       url: /yoga/
 kundalini:
@@ -26,8 +34,8 @@ kundalini:
       url: /kundalini/welcome.html
     - link-text: Author's Note
       url: /kundalini/note-1.html
-    - link-text: 
-      url: /kundalini/page-k2.html
+    - link-text: Coming Soon!
+      url: /kundalini/upcoming.html
 home:
   articles:
     - link-text: Samkhya
