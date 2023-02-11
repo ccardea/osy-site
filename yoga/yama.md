@@ -27,9 +27,16 @@ In contemplating the various forms of *yama*, the reader should attempt to ident
 
 [*Yama*] constitute the great vow, [which] is universal [and applicable] without regard to time, place, class, or usual practice.
 
-*Samaya*, or usual practice, requires some explanation. The usual practice of military men, for example, is to engage in violence and killing of others. Some upper echelon or highly placed people may engage in practices that ordinarily would be considered harmful to others, but are the usual practice for people in their position. 
+*Samaya*, or usual practice, requires some explanation. I.K. Taimni explains:  
+>In the practicing of any virtue there are occasions when doubts arise whether it is feasible or advisable to practice that particular virtue in the particular situation that has arisen. Considerations of class, place, and time or occasion may be involved in these situations ...
 
-*Maha-vratam*, the great vow, implies that the yogi must commit to these principles.
+These are sometimes difficult to decide. For example:
+- You know your friend is innocent but is going to prison unless you tell a lie. Should you lie?
+- Your country is at war with an enemy who has killed innocent people. Should you join the military and help to kill the enemy?
+- Your family is starving. Should you kill an animal to feed them?
+- Your family are wealthy business owners and you are expected to work in the business and eventually take over. Should you engage in the family business and continue to accumulate wealth?
+
+*Maha-vratam*, the great vow, implies that the yogi must commit to these principles. This is similar to vows taken by religious orders and may have a similar purpose in addition to the benefit of a tranquil mind. Mastery of yoga is potentially very powerful and must not be used for nefarious or self-serving purposes.
 
 ### Ahimsa - not-harming
 - Obvious forms: violence, killing.
@@ -59,8 +66,6 @@ Subtle forms: being honest with oneself, intellectual honesty.
 When established in truthfulness, fruit [of action] depends on [the yogi's own] action.
 
 In modern terms, this is known as taking responsibility for one's actions. The yogi does not make excuses or blame others for his circumstances, but realizes that they are the result of his own actions. This is not always easy. 
-
-Some traditional translators interpret the sutra to mean that the yogi becomes infallible, but this has been rejected by modern scholars.
 
 ### *Asteya* - not stealing
 Obvious forms: not taking anything that doesn't belong to you.   
