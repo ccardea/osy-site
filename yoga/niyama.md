@@ -45,9 +45,9 @@ The desire for non-association flows naturally from the desire to cure old bad h
 
 The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, with *rajas* forming a third dimension. Activity can vary both along the spectrum of tamas to sattva, and also along its own dimension, low, medium, and high.
 
-The yogi needs to adjust his thinking and action toward the *sattva* end of the spectrum. When he does that he starts to realize the benefits of calm mind, etc. These read like the steps of a ladder that the yogi is climbing.
+In the current context, the harmful impulses, thoughts, and actions related to lust, anger, and greed are *tamas*. The yogi needs to adjust his thoughts and control his impulses toward the *sattva* end of the spectrum. When he does that he starts to realize the benefits of calm mind, etc. These read like the steps of a ladder that the yogi is climbing.
 
-*Atma* should be thought of as the soul. The self has a specific meaning in Samkhya-Yoga and to call *atma* the self creates confusion with that concept. The Upanishads contain the concept of *jivatma*, the individual embodied soul, and *paramatma*, the universal soul.
+*Atma* should be thought of as the soul. The self has a specific meaning in Samkhya-Yoga and to call *atma* the self creates confusion with that concept. This is discussed in more detail elsewhere.
 
 ### *Santoṣa* - Contentment
 
@@ -70,6 +70,8 @@ Through contentment, he gains unsurpassed happiness.
 
 From austerity, [he gains] perfection of the body and the senses and diminishing of impurity.
 
+What kinds of austerity bring about perfection of the body and the senses? Surely not things like fasting, subjecting oneself to extremes of hot and cold, etc. Getting up early in the morming to practice yoga is a good example.
+
 ### *Svādhyāya* - Study of Scriptures, Chanting of Mantras
 
 #### Sutra 2.44
@@ -80,13 +82,16 @@ From austerity, [he gains] perfection of the body and the senses and diminishing
 
 From chanting of mantras, [he gains] contact with the desired deity
 
+*Svadhyaya* is sometimes translated as self-study and people derive all sorts of meaning from that. *Svadhyaya* has a few different meanings. Regarding the study of scriptures, it refers to the practice of memorizing and reciting scripture that was used in ancient times to transmit them before they were written down. It also refers to chanting of mantras that are associated with specific deities. That is what this sutra refers to. This type of practice is common in Buddhism but is usually omitted by western yoga practitioners.
+
 ### *Iśvara-praṇidhāna* - Devotion to Isvara
 
 #### Sutra 2.45
 *Samādhi-siddhir-īśvara-praṇidhānāt*  
 - *Samādhi* = the highest of the 8 limbs
-- *siddhir* = Accomplishment, fulfilment, completion, perfection, complete attainment (of an object)
+- *siddhir* = Accomplishment, fulfillment, completion, perfection, complete attainment (of an object)
 - *īśvara* = the lord, the most high god
 - *praṇidhānāt* = profound religious meditation
 
 From *Isvara-pranidhana*, [the yogi] attains *samadhi*.
+

@@ -24,7 +24,7 @@ yoga:
       url: /yoga/yama.html
     - link-text: Coming Soon!
       url: /yoga/upcoming.html
-    - link-text: 
+    - link-text: Observances
       url: /yoga/niyama.html
     - link-text: 
       url: /yoga/
@@ -44,3 +44,4 @@ home:
       url: /yoga/welcome.html
     - link-text: Kundalini
       url: /kundalini/welcome.html
+      
