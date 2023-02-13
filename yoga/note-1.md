@@ -13,4 +13,4 @@ This is done to ensure the integrity of both the original text and the translati
 
 The material has been organized by topic, meaning that the original order of the sutras has not always been followed. However, nothing has been added or left out. The meaning of the text has not been altered, only the order of presentation has been changed.
 
-Finally, the explanations given here are intended to be rather sparse. This is based on the idea that the author's job is to convey the original intent in language that the reader can understand, not to tell the reader what he thinks about it. It is the reader's job to contemplate the text and figure out how it applies to his/her own life and practice of yoga.
+Finally, the explanations given here are intended to be rather sparse. This is based on the idea that the author's job is to convey the original intent in language that the reader can understand and to provide insight that will aid in understanding. It is the reader's job to contemplate the text and figure out how it applies to his/her own life and practice of yoga.
