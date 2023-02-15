@@ -26,6 +26,8 @@ yoga:
       url: /yoga/upcoming.html
     - link-text: Observances
       url: /yoga/niyama.html
+    - link-text: Posture
+      url: /yoga/asana.html
     - link-text: 
       url: /yoga/
 kundalini:
@@ -44,4 +46,3 @@ home:
       url: /yoga/welcome.html
     - link-text: Kundalini
       url: /kundalini/welcome.html
-      
