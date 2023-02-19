@@ -18,7 +18,7 @@ title: Asana - Postures
 - *ananta* = Endless, infinite, eternal, boundless, inexhaustible
 - *samāpatti* = Meeting, encountering; assuming an original form
 
-[Accompanied by] relaxation of effort [and the mind] assuming the form of the infinite.
+[Accompanied by] relaxation of effort [with the mind] assuming the form of the infinite.
 
 Most translators shy away from the literal meaning of *samapatti* that is used here. Patanjali himself defines *samapatti* as an advanced form of object-focused meditation practice (Sutra 1.41). The apparent meaning is that the yogi should relax to the point where he feels that his body has dissolved into infinity.
 
@@ -35,4 +35,4 @@ In these three sutras, Patanjali seems to be talking about seated asana practice
 
 Following that is the startling claim that this meditation can produce immunity from the pairs of opposites, such as hot and cold, joy and sorrow. Some yogis have been known to meditate in extremes of heat and cold to try to prove this point. The practice is more likely to succeed when used to maintain equanimity or to get a brief respite from the cares of everyday life. The ability to maintain equanimity under stress is one of the most valuable skills a person can have.
 
-These sutras are fairly cut and dried, but how to apply them to a modern yoga practice is an open question. A modern practice is much more movement oriented and sometimes involves a great deal of effort, with a lot of emphasis on health and fitness. Clearly that is not what Patanjali had in mind. Recall that the eight limbs are concerned with elimination of impurities and illumination of understanding. Asana as described here doesn't fit neatly into either of those categories. However, the modern yogi may find that the focus on simply relaxing the body and the mind is helpful in achieving the calm, focused mind needed for the practices described later.
+These sutras are fairly cut and dried, but how to apply them to a modern yoga practice is an open question. A modern practice is much more movement oriented and sometimes involves a great deal of effort, with a lot of emphasis on health and fitness. Clearly that is not what Patanjali had in mind, but that should not stop us from finding ways to apply the sutras in practice, and this can be done in different ways. The modern yogi should find that the focus on simply relaxing the body and the mind will be helpful in achieving the calm, focused mind needed for the practices described later.
