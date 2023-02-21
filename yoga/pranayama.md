@@ -15,7 +15,7 @@ title: Pranayama - Breath Control
 
 When this is achieved [the yogi should practice] *prāṇāyāma*, [which is] interrupting the motion of the breath coming in and going out.
 
-When this has been achieved refers to becoming steady and relaxed in asana. Interrupting the motion of the breath seems to refer to the practice known as *kumbhaka*, or stopping the movement of breath either at the end of inhalation or the end of exhalation. Patanjali defines *pranayama* in terms of *kumbhaka*, which gives the sense that he regarded *kumbhaka* as important. 
+When this has been achieved refers to becoming steady and relaxed in asana. Interrupting the motion of the breath refers to the practice known as *kumbhaka*, or stopping the movement of breath, either at the end of inhalation or the end of exhalation. Patanjali defines *pranayama* in terms of *kumbhaka*, which gives the sense that he regarded *kumbhaka* as important. 
 
 Caution! Well respected teachers have said that this should not be attempted until basic inhalation and exhalation practices have been mastered.  
 
@@ -29,7 +29,7 @@ Caution! Well respected teachers have said that this should not be attempted unt
 
 Its [the breath] modes of operation are outward, inward, and fixed, when observed by place, time, and number, [it becomes] long and subtle. 
 
-There are differing explanations of this sutra. The simple and seemingly obvious one is that the three modes of operation refer to inhalation, exhalation, and kumbhaka. The older, more traditional translators are adamant that this is not the case, that inward and outward refers to the places where kumbhaka is performed, and that *stambha* is not kumbhaka but a practice of suppressing the breath in which breathing is sometimes suspended for long periods of time.
+There are differing explanations of this sutra. The simple and seemingly obvious one is that the three modes of operation refer to inhalation, exhalation, and *kumbhaka*. The older, more traditional translators are adamant that this is not the case, that inward and outward refers to the places where *kumbhaka* is performed, and that *stambha* is not *kumbhaka* but a practice of suppressing the breath in which breathing is sometimes suspended for long periods of time.
 
 Likewise, there are differing explanations as to the meaning of place. There are other Hindu texts that refer to stopping the breath in different places. Based on that, breath can be understood as a metaphor for *prana* or energy, which can be consciously directed to various parts of the body. Breath can also be stopped physically in different places, such as chest, ribs, and diaphragm. 
 
@@ -55,7 +55,7 @@ What is the object that transcends the inward and outward movement of the breath
 
 From that, the covering of [the inner] light falls away.
 
-By the inner light is meant the spiritual light that represents the param-atma, the supreme soul or the soul of the universe, and which is present in all beings as jivatma, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*.
+By the inner light is meant the spiritual light that represents the *param-atma*, the supreme soul or the soul of the universe, and which is present in all beings as *jiva-atma*, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*.
 
 ### Sutra 2.53
 *Dhāraṇāsu ca yogyatā manasaḥ*
@@ -69,4 +69,4 @@ The author is stating another benefit of *pranayama*, which is fitness of the mi
 ### Perspective
 In the *pranayama* described here, the yogi must be seated comfortably and relaxed. The limbs and the senses are brought to a state of being still through *asana*. Then the yogi can begin to focus on the breath, and when he is ready, to interrupt its movement. At first, *kumbhaka* may be momentary, simply noting the point at which one movement of the breath ends and the next begins. With practice it can be lengthened as desired. 
 
-In modern yoga practices, *pranayama* is sometimes done along with *asanas*. The different *asanas* can be used to direct *prana* to various parts of the body. This is said to be accomplished through *nadis*, which are passageways through which *prana* can flow. This is analogous to the nervous system, the circulatory system, the digestive system, etc. In this type of *pranayama*, the yogi must be relaxed in *asana* enough so that he becomes aware of and takes control of his breathing. The movement of the breath is coordinated with movements of the body, and when the asana becomes still, focus shifts to the breath. In this type of *pranayama*, the movement of the breath is not interrupted or stopped.
+In modern yoga practices, *pranayama* is sometimes done along with *asanas*. The different *asanas* can be used to direct *prana* to various parts of the body. This is said to be accomplished through *nadis*, which are passageways through which *prana* can flow. This is analogous to the nervous system, the circulatory system, the digestive system, etc. In this type of *pranayama*, the yogi in *asana* must be relaxed enough so that he becomes aware of and takes control of his breathing. The movement of the breath is coordinated with movements of the body, and when the *asana* becomes still, focus shifts to the breath. In this type of *pranayama*, the movement of the breath is not interrupted or stopped.

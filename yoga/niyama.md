@@ -22,7 +22,7 @@ The *niyamas* are:
 
 Through purification, [the yogi develops] aversion to his own body [and also, aversion to] association with others. 
 
-The desire for non-association flows naturally from the desire to cure old bad habits. There are different degrees of this. The most extreme is the ascetic who lives alone and prefers to maintain a solitary existence. More common are monks and others who live in communities with other like-minded individuals. Even among these there are different degrees of isolation from the outside world. In secular society it is found in people who are recovering from alcohol and drug addiction, who are advised to cut off their association with others who are still actively involved in their vices.
+Through the practice of yoga, the yogi begins to lessen the desire for gratification of the senses. The desire for non-association flows naturally from the desire to cure old bad habits. There are different degrees of this. The most extreme is the ascetic who lives alone and prefers to maintain a solitary existence. More common are monks and others who live in communities with other like-minded individuals. Even among these there are different degrees of isolation from the outside world. In secular society it is found in people who are recovering from alcohol and drug addiction, who are advised to cut off their association with others who are still actively involved in their vices.
 
 #### Sutra 2.41
 *Sattva-śuddhi-saumanasya-aikagrya-indriya-jaya-atma-darśana-yogyatvāni ca* 
@@ -38,12 +38,12 @@ The desire for non-association flows naturally from the desire to cure old bad h
 
 [Through] purity of *sattva*, [the yogi gains] a calm mind, and the ability to concentrate, to subdue the senses, and to know the *atma*. 
 
-*Sattva* requires explanation. It is one of the three *guna* or qualities that exist throughout material nature:
+*Sattva* requires explanation. In the world view that was common when the Sutras were written, it is one of the three *guna* or qualities that exist throughout material nature:
 - *Sattva* = lightness or illumination
 - *Rajas* = activity and constant change
 - *Tamas* = heaviness, darkness, and inertia
 
-The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, with *rajas* forming another dimension. Activity can vary both along the spectrum of tamas to sattva, and also along its own dimension, low, medium, and high.
+The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, with *rajas* forming another dimension. The activity of *rajas* can vary both along the spectrum of tamas to sattva, and also along its own dimension, low, medium, and high.
 
 In the current context, the harmful impulses, thoughts, and actions related to lust, anger, and greed are *tamas*. The yogi needs to adjust his thoughts and control his impulses toward the *sattva* end of the spectrum. When he does that he starts to realize the benefits of calm mind, etc. These read like the steps of a ladder that the yogi is climbing. Note: *sattva* can never be completely pure. The three *guna* are said to be inseparable, and all three are always present to some degree.
 
@@ -68,11 +68,11 @@ No explanation or elaboration required, only contemplation.
 - *aśuddhi-kṣayat* = the diminishing of impurity
 - *tapasaḥ* = from austerity
 
-From austerity, [he gains] perfection of the body and the senses and diminishing of impurity.
+From austerity, [he gains] perfection of the body and the senses and the diminishing of impurity.
 
 What kinds of austerity bring about perfection of the body and the senses? Surely not things like fasting, subjecting oneself to extremes of hot and cold, etc. One good example is getting up early in the morning to practice yoga.
 
-### *Svādhyāya* - Study of Scriptures, Chanting of Mantras
+### *Svādhyāya* - Chanting of Mantras
 
 #### Sutra 2.44
 *Svādhyayād-iṣṭa-devatā-samprayogaḥ*  
@@ -82,7 +82,7 @@ What kinds of austerity bring about perfection of the body and the senses? Surel
 
 From chanting of mantras, [he gains] contact with the desired deity.
 
-*Svadhyaya* has a few different meanings. It is sometimes translated as self-study, and people derive all sorts of meaning from that. Regarding the study of scriptures, *svadhyaya* refers to the ancient practice of memorizing and reciting scripture for the purpose of transmitting knowledge to others before writing was commonplace. *Svadhyaya* also refers to the chanting of mantras that are associated with specific deities. That is what this sutra refers to. This type of practice is common in Buddhism but is usually omitted by western yoga practitioners. Compared to *Isvara*, the *ista-devata* are lesser deities.
+*Svadhyaya* has a few different meanings. It is sometimes translated as self-study, and people derive all sorts of meaning from that. *Svadhyaya* can also refer to the practice  that was used before writing was commonplace of memorizing and reciting scripture for the purpose of transmitting the knowledge to others. Here, *svadhyaya* refers to the chanting of mantras that are associated with specific deities. This type of practice is common in Buddhism but is usually omitted by western yoga practitioners. Compared to *Isvara*, the *ista-devata* are lesser deities.
 
 ### *Iśvara-praṇidhāna* - Devotion to Isvara
 
@@ -102,7 +102,7 @@ The subject of *Isvara-pranidhana* is covered in Yoga Sutras chapter one.
 
 In Sutra 1.23 *Isvara-pranidhana* is introduced with the word *va*, meaning "or". This implies that *isvara-pranidhana* is being offered as an alternative to the more detailed methods of *samadhi* described in the *Jnana* portion of the Sutras.
 
-The sutras go on to describe some characteritics of Isvara:   
+The sutras go on to describe some characteristics of Isvara:   
 
 ##### Sutra 1.24
 - *purusa-visesa* = an individual being having characteristics that are peculiar to him and which make him different from other beings.
@@ -133,8 +133,7 @@ Patanjali has described *isvara-pranidhana* as repetition of the syllable "Om" a
 - *tatah pratyak-cetana-adhigamo* = from that, he acquires inward mindedness
 - *api-antaraya-abhavas-ca* = and also elimination of obstacles
 
-There is some disagreement among translators regarding the first phrase. Here it is taken to mean changing the consciousness which is usually directed outward and directing it inward. The second phrase tells us that, in addition to attaining *samadhi*, *isvara-pranidhana* also helps the aspirant to overcome obstacles to yoga that may be in his path. That seems like the same thing as eliminating impurities and it is, but there are differences to what has been discussed in *yama* and *niyama*. This will be discussed elsewhere.
+There is some disagreement among translators regarding the first phrase. Here it is taken to mean changing the consciousness, which is usually directed outward, and directing it inward. The second phrase tells us that, along the way to attaining *samadhi*, *isvara-pranidhana* helps the yogi to overcome obstacles that may be in his/her path. That seems like the same thing as eliminating impurities and it is, but there are differences to what has been discussed in *yama* and *niyama*. This will be discussed elsewhere.
 
-The subject of Isvara is deep and wide. It is often interpreted as referring to Brahman, the universal unity that is central to Advaita Vedanta, which is the dominant philosophy of Hinduism.
-There are important points not discussed here which indicate that *Isvara* as described in the Yoga Sutras differs from Brahman. If the reader is not comfortable with this concept of *Isvara*, it is acceptable to substitute his/her own concept of God. Isvara will be discussed at length elsewhere.
+The subject of Isvara is deep and wide. It is often interpreted as referring to Saguna Brahman, the universal unity that is central to Advaita Vedanta, which is the dominant philosophy of Hinduism. The Samkhya-Yoga tradition, of which the Yoga Sutras is a part, describes a different type of Isvara. If the reader is not comfortable with Patanjali's concept of *Isvara*, it is acceptable to substitute his/her own concept of God. Isvara will be discussed at length elsewhere.
 
