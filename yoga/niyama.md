@@ -40,7 +40,7 @@ Through the practice of yoga, the yogi begins to lessen the desire for gratifica
 
 *Sattva* requires explanation. In the world view that was common when the Sutras were written, it is one of the three *guna* or qualities that exist throughout material nature:
 - *Sattva* = lightness or illumination
-- *Rajas* = activity and constant change
+- *Rajas* = activity, evolution, and constant change
 - *Tamas* = heaviness, darkness, and inertia
 
 The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, with *rajas* forming another dimension. The activity of *rajas* can vary both along the spectrum of tamas to sattva, and also along its own dimension, low, medium, and high.
