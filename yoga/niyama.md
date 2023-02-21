@@ -43,7 +43,7 @@ Through the practice of yoga, the yogi begins to lessen the desire for gratifica
 - *Rajas* = activity, evolution, and constant change
 - *Tamas* = heaviness, darkness, and inertia
 
-The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, with *rajas* forming another dimension. The activity of *rajas* can vary both along the spectrum of tamas to sattva, and also along its own dimension, low, medium, and high.
+The *guna* are said to combine in different proportions to produce the various forms of nature. It may be helpful to think of *sattva* and *tamas* as opposite ends of a spectrum, such as good and evil or light and darkness. The activity of *rajas* can vary both along the spectrum of tamas to sattva, and also in a range from low to high.
 
 In the current context, the harmful impulses, thoughts, and actions related to lust, anger, and greed are *tamas*. The yogi needs to adjust his thoughts and control his impulses toward the *sattva* end of the spectrum. When he does that he starts to realize the benefits of calm mind, etc. These read like the steps of a ladder that the yogi is climbing. Note: *sattva* can never be completely pure. The three *guna* are said to be inseparable, and all three are always present to some degree.
 
@@ -82,7 +82,7 @@ What kinds of austerity bring about perfection of the body and the senses? Surel
 
 From chanting of mantras, [he gains] contact with the desired deity.
 
-*Svadhyaya* has a few different meanings. It is sometimes translated as self-study, and people derive all sorts of meaning from that. *Svadhyaya* can also refer to the practice  that was used before writing was commonplace of memorizing and reciting scripture for the purpose of transmitting the knowledge to others. Here, *svadhyaya* refers to the chanting of mantras that are associated with specific deities. This type of practice is common in Buddhism but is usually omitted by western yoga practitioners. Compared to *Isvara*, the *ista-devata* are lesser deities.
+*Svadhyaya* has a few different meanings. It is sometimes translated as self-study, and people derive all sorts of meaning from that. *Svadhyaya* can also refer to the practice of memorizing and reciting scriptures for the purpose of transmitting them to others that was used before writing was commonplace. Here, *svadhyaya* refers to the chanting of mantras that are associated with specific deities. This type of practice is common in Buddhism but is usually omitted by western yoga practitioners. Compared to *Isvara*, the *ista-devata* are lesser deities.
 
 ### *Iśvara-praṇidhāna* - Devotion to Isvara
 

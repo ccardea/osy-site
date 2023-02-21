@@ -27,7 +27,7 @@ Caution! Well respected teachers have said that this should not be attempted unt
 - *dīrgha* = of long duration
 - *sūkṣmaḥ* = subtle; small
 
-Its [the breath] modes of operation are outward, inward, and fixed, when observed by place, time, and number, [it becomes] long and subtle. 
+Its [the breath's] modes of operation are outward, inward, and fixed, when observed by place, time, and number, [it becomes] long and subtle. 
 
 There are differing explanations of this sutra. The simple and seemingly obvious one is that the three modes of operation refer to inhalation, exhalation, and *kumbhaka*. The older, more traditional translators are adamant that this is not the case, that inward and outward refers to the places where *kumbhaka* is performed, and that *stambha* is not *kumbhaka* but a practice of suppressing the breath in which breathing is sometimes suspended for long periods of time.
 
@@ -55,7 +55,7 @@ What is the object that transcends the inward and outward movement of the breath
 
 From that, the covering of [the inner] light falls away.
 
-By the inner light is meant the spiritual light that represents the *param-atma*, the supreme soul or the soul of the universe, and which is present in all beings as *jiva-atma*, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*.
+By the inner light is meant the spiritual light that represents the *param-atma*, the supreme soul or the soul of the universe, and which is present in all beings as *jiva-atma*, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*. This should be understood as a form of meditation practice that is achieved through *pranayama* alone.
 
 ### Sutra 2.53
 *Dhāraṇāsu ca yogyatā manasaḥ*
