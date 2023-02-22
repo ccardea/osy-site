@@ -44,13 +44,13 @@ The eight limbs can be classified as:
 - Elimination of Impurity
     - yama
     - niyama
-    - dhyana
 - Physical Practices
     - asana
     - pranayama
 - Illumination of Understanding
     - pratyahara
     - dharana
+    - dhyana
     - samadhi
 
 Each of the limbs will be discussed individually.
