@@ -1,9 +1,9 @@
 ---
 layout: section
 category: yoga
-title: Elimination of Impurities
+title: Refining the Crystal
 ---
-In the original text of the Yoga Sutras, the two sutras presented here come after *yama* and *niyama* have been defined. Old School Yoga presents them first in order to emphasize the purpose of *yama* and *niyama*, which is elimination of impurities. Also, in these sutras, we learn what is meant by impurity.
+In the original text of the Yoga Sutras, the two sutras presented here come after *yama* and *niyama* have been defined. Old School Yoga presents them first in order to emphasize the purpose of *yama* and *niyama*, which is eliminating impurities in the crystal of consciousness. The refining process is *yama* and *niyama*, and these sutras teach us about the impurities that we need to remove.
 
 ### Sutra 2.33
 *Vitarka bādhane pratipakṣa-bhāvanam*  
@@ -33,12 +33,13 @@ Disturbing thoughts [should be countered by] cultivating the opposites.
 - *ananta* = endless, infinite, eternal
 - *phalā* = result, fruit, consequence, effect
 - *iti* = so, thus, in this manner
-- *pratipakṣa-bhāvanam* = cultivating the opposites
+- *pratipakṣa* = the opposites
+- *bhāvanam* = manifesting or bringing into being
 
-Harmful thinking arising from delusion, anger, and greed; whether done, caused to be done, or approved; whether mild, medium, or excessive; results in unending ignorance and sorrow, therefore, the yogi should cultivate the opposites.
+Harmful thinking arising from infatuation, anger, and greed; whether done, caused to be done, or approved; whether mild, medium, or excessive; results in unending ignorance and sorrow, therefore, the yogi should cultivate the opposites.
 
 #### Discussion
-Here, Patanjali is explaining why the yogi practices *yama* and *niyama*. The impurities that the yogi seeks to eliminate are those harmful thoughts and actions arising from delusion, anger, and greed. Elimination is desired because the harmful activities inevitably come to fruition as unending ignorance and sorrow. If the yogi engages in things such as violence, lying, stealing, etc., his life is bound to be beset by trouble and sorrow. In these conditions, calming of the *citta-vrrti* is impossible. 
+Here, Patanjali is explaining why the yogi practices *yama* and *niyama*. The impurities that the yogi seeks to eliminate are those harmful thoughts and actions arising from lust, anger, and greed. Elimination is desired because the harmful activities inevitably come to fruition as unending ignorance and sorrow. If the yogi engages in things such as violence, lying, stealing, etc., his life is bound to be beset by trouble and sorrow. In these conditions, calming of the *citta-vrrti* is impossible. 
 
 It must be understood that the undesireable conditions resulting from harmful activities are due to the natural forces of karma. They are not thought of as punishments meted out by an offended god. Karma is thought of as operating like the laws of physics, every action has an equal and opposite reaction. 
 
