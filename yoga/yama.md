@@ -50,7 +50,7 @@ These are sometimes difficult to decide. For example:
 
 When established in *ahimsa*, hostility is abandoned in his presence. 
 
-This is perhaps best illustrated by leaders like Mahatma Gandhi and Dr. Martin Luther King, who used non-violence to overcome opposition to their causes. It can also be seen in animals who are kept on a farm or in a zoo. When they learn that people are not a threat to them, they become more tame.
+This is perhaps best illustrated by leaders like Mahatma Gandhi and Dr. Martin Luther King, Jr., who used non-violence to overcome opposition to their causes. It can also be seen in animals who are kept on a farm or in a zoo. When they learn that people are not a threat to them, they become more tame.
 
 ### *Satya* - truthfulness
 Obvious forms: lying to escape trouble or obtain an undeserved benefit.  
