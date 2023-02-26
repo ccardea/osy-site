@@ -20,7 +20,7 @@ The *niyamas* are:
 - *jugupsā* = dislike, aversion, disgust
 - *parair-asaṁsargaḥ* = non-association with others 
 
-Through purification, [the yogi develops] aversion to his own body [and also, aversion to] association with others. 
+Through purification, [the yogi develops] aversion to his own body [and the desire for] non-association with others. 
 
 Through the practice of yoga, the yogi begins to lessen the desire for gratification of the senses. The desire for non-association flows naturally from the desire to cure old bad habits. There are different degrees of this. The most extreme is the ascetic who lives alone and prefers to maintain a solitary existence. More common are monks and others who live in communities with other like-minded individuals. Even among these there are different degrees of isolation from the outside world. In secular society it is found in people who are recovering from alcohol and drug addiction, who are advised to cut off their association with others who are still actively involved in their vices.
 
@@ -95,7 +95,7 @@ From chanting of mantras, [he gains] contact with the desired deity.
 
 From *Isvara-pranidhana*, [the yogi] attains *samadhi*.
 
-The subject of *Isvara-pranidhana* is covered in Yoga Sutras chapter one.
+The explanation of *Isvara* and *Isvara-pranidhana* is given in Yoga Sutras chapter one, and is presented here in abbreviated form.
 
 ##### Sutra 1.23
 *Īśvara-praṇidhānād-vā*

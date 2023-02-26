@@ -28,10 +28,14 @@ yoga:
       url: /yoga/asana.html
     - link-text: Breath Control
       url: /yoga/pranayama.html
+    - link-text: Control of the Senses
+      url: /yoga/pratyahara.html
+    - link-text: Illumination of Understanding
+      url: /yoga/illumination.html
+    - link-text: Jnana + Yoga
+      url: /yoga/jnana.html
     - link-text: Coming Soon!
       url: /yoga/upcoming.html
-    - link-text: 
-      url: /yoga/
 kundalini:
   articles:
     - link-text: Kundalini Home
