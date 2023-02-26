@@ -55,7 +55,7 @@ What is the object that transcends the inward and outward movement of the breath
 
 From that, the covering of [the inner] light falls away.
 
-By the inner light is meant the spiritual light that represents the *param-atma*, the supreme soul or the soul of the universe, and which is present in all beings as *jiva-atma*, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*. This should be understood as a form of meditation practice that is achieved through *pranayama* alone.
+By the inner light is meant the spiritual light that represents the *param-atma*, the supreme soul or the soul of the universe, and which is present in all beings as *jiva-atma*, the individual soul. the author is stating that the yogi develops the ability to see this light through *pranayama*. This should be understood as a form of meditation practice that requires no other method except for *pranayama*.
 
 ### Sutra 2.53
 *Dhāraṇāsu ca yogyatā manasaḥ*
