@@ -1,14 +1,18 @@
 ---
 layout: section
 category: samkhya
-title: Introduction
+title: Suffering and Liberation
+started: 2023-03-02
+updated: 2023-03-02
 ---
-The Samkhya philosophy has its roots in the problem of suffering. It describes three categories of suffering:
+The Samkhya philosophy has its roots in the problem of suffering. All sentient creatures experience pleasure and pain. All desire to experience pleasure and to remove or avoid pain. The two normally can't co-exist for very long, pain has to be removed in order to experience pleasure. The highest good, therefore, is believed to be the permanent removal of pain. 
+
+Samkhya describes three categories of suffering:
 - Physical and mental pain originating from oneself;
 - Pain caused by others, including animals, insects, and other humans;
 - Pain caused by natural forces beyond our control.
 
-All sentient creatures experience pleasure and pain. All desire to experience pleasure and to remove or avoid pain. The highest good, therefore, is believed to be the permanent removal of pain.
+
 
 Some kinds of pain are avoidable, most notably, pain that one causes oneself. The sutras seek to illuminate those things that are the causes of avoidable pain and the means of avoidance. Other types of pain are unavoidable and will continue to be experienced as long as one exists as a material being. The only way to permanently remove such pain is to become free from material nature itself. Therefore, in the Samkhya system, which was adopted by virtually all Hindus, the highest good is release from samsara, the cycle of birth, life, suffering, death, and rebirth.
 
