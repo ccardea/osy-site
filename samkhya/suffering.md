@@ -11,7 +11,7 @@ By definition, pain is a disagreeable occurrence and, as a result, all people wa
 - Adhibhautika: arising from other beings, other people, animals, and  insects; and
 - Adhidaivika: arising from the gods, which a modern man would regard as the forces of nature that are beyond our control, sometimes called acts of God.
 	
-The three categories have implications for how the different kinds of pain can be counteracted. If you believe that the gods are causing your trouble, then the remedies will consists of sacrifices, rituals, prayers, and offerings to the gods. Civilized people develop rules of conduct in order to limit and deal with the kinds of pain that people inflict on one another. We build shelters, cultivate food, dam rivers, and in general take all kinds of actions in order to try to prevent various types of suffering, and to mitigate it when it does occur. These "ordinary means" are legitimate and necessary pursuits in in life. But like the satisfaction of daily hunger, no matter what we do, pain always returns in one form or another. It has to be acknowledged that suffering is a fact of life and as long as we exist as embodied beings, we will experience suffering in one form or another.  
+The three categories have implications for how the different kinds of pain can be counteracted. If you believe that the gods are causing your trouble, then the remedies will consist of sacrifices, rituals, prayers, and offerings to the gods. Civilized people develop rules of conduct in order to limit and deal with the kinds of pain that people inflict on one another. We build shelters, cultivate food, dam rivers, and in general take all kinds of actions in order to try to prevent various types of suffering, and to mitigate it when it does occur. These "ordinary means" are legitimate and necessary pursuits in in life. But like the satisfaction of daily hunger, no matter what we do, pain always returns in one form or another. It has to be acknowledged that suffering is a fact of life and as long as we exist as embodied beings, we will experience suffering in one form or another.  
 
 From that, there is some logic to the scriptural teaching that the highest purpose of life is the complete and permanent elimination of all kinds of suffering. Samkhya philosophy is the inquiry into the means of achieving this. This is not superfluous, in spite of the fact that suffering can be somewhat mitigated by ordinary means. The study should be taken up by men who are "skillful in argument", i.e. the upper echelons of society, those who in our society would be the scientists, doctors, and engineers. According to Samkhya, the means consists of discriminative knowledge of the manifest, the unmanifest, and the knower. 
 
@@ -38,7 +38,7 @@ The complete and permanent cessation of pain cannot be accomplished by ordinary 
 - Tat-pratikara-chestanat = on account of the endeavor for relief of pain by means of that (by ordinary means)
 - Purusa-artha-tvam = is also an object of purusa
 
-Sutra 1.3 continues the thought from 1.2: (since the re-occurrence of pain in various forms is always observed) like the satisfaction of daily hunger. This too is a purpose of life, and many are engaged in the endeavor for relief of pain by those means.
+Sutra 1.3 continues the thought from 1.2: (since the re-occurrence of pain in various forms is always observed), like the satisfaction of daily hunger, these too are a purpose of life, and many are engaged in the endeavor for relief of pain by ordinary means.
 
 #### SPS 1.4
 - Sarva-asambhavat = on account of absence of universal possibility, i.e. non-existence of visible means at all times and places.
@@ -64,7 +64,7 @@ The author states a third reason why ordinary means should be given up, and that
 - Cha = and
 - Ubhayoh = between the two
 
-Scriptural means are no different than ordinary means, in that it is observed that pain returns in various form. This is further elaborated by Karika 2.
+Scriptural means are no different than ordinary means. This is further elaborated by Karika 2.
 
 #### Karika 1.
 - Duhkha-traya-abhighatat =  from the disagreeable occurrence of the threefold pain

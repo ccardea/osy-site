@@ -81,12 +81,12 @@ The author has enumerated the twenty-five tattvas or principles that make up bot
 - Purusa
 
 In the state of equilibrium of the gunas, the root Prakriti is unmanifest. When the equilibrium is disturbed, then Prakriti begins to manifest as her products. Properties common to both Prakriti and her products are:
-- being composed of the gunas,
-- being unintelligent, and
-- undergoing transformation, among others.  
+- they are composed of the gunas,
+- they are unintelligent, and
+- they undergo transformation.
 
 Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas. It does not participate in the transformations of Prakriti, but is merely the Witness, and it is the intelligent principle, that is, the Knower. 
 
 The author has described a system of two ultimates, Prakriti and Purusa. This is the primary difference between Samkhya and Advaita Vedanta, which postulates a single ultimate called Brahman, which is both self and the source of the world. In the Samkhya system, Prakriti is the ultimate material cause of the world and Purusa is the self.
 
-The Samkhya description of the natural world as composed of five gross elements and five subtle elements represents the beginnings of scientific inquiry, an early attempt to explain the world without reference to any deity or supernatural influence. The problems addressed by the Samkhya tattvas are notable for their similarity to what is now known as theoretical physics. Perhaps of greatest significance to the yoga practitioner is the distinction between coarse and subtle elements. The coarse or gross elements are perceivable by the senses, while the subtle elements are known by reasoning or by revelation. This distinction between perceivable and subtle objects is prominent in the Yoga Sutras. The reader should keep in mind that the gross and subtle elements of Samkhya are the elements of experience and, while not particularly useful from a scientific point of view, they are still useful for the purposes of yoga. Of greatest interest to the yoga practitioner or meditator will be the tattvas that make up the Internal Instrument, which will be a subject of further discussion.
+The Samkhya description of the natural world as composed of five gross elements and five subtle elements represents the beginnings of scientific inquiry, an early attempt to explain the world without reference to a deity or other supernatural influence. The problems addressed by the Samkhya tattvas are notable for their similarity to what is now known as theoretical physics. Perhaps of greatest significance to the yoga practitioner is the distinction between coarse and subtle elements. The coarse or gross elements are perceivable by the senses, while the subtle elements are known by reasoning or by revelation. This distinction between perceivable and subtle objects is prominent in the Yoga Sutras. The reader should keep in mind that the gross and subtle elements of Samkhya are the elements of experience and, while not particularly useful from a scientific point of view, they are still useful for the purposes of yoga. Of great interest to the yoga practitioner or meditator will be the tattvas that make up the Internal Instrument, which will be a subject of further discussion.
