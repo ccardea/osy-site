@@ -80,16 +80,15 @@ The author has enumerated the twenty-five tattvas or principles that make up bot
 			- 5 Coarse or gross elements: earth, air, fire, water, akasa consisting of space and time
 - Purusa
 
-In the state of equilibrium of the gunas, the root Prakriti is unmanifest. When the equilibrium is disturbed, then Prakriti begins to manifest as her products. Properties common to both Prakriti and her products are:
+In the state of equilibrium of the gunas, the root Prakriti is unmanifest and exists only as pure potential. When the equilibrium is disturbed, then Prakriti begins to manifest as her products. Properties common to both Prakriti and her products are:
 - they are composed of the gunas,
-- they are objective,
-- unintelligent, and
-- undergo transformation.
+- they are unintelligent, and
+- they are objective and undergo transformation.
 
 Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas. It does not participate in the evolution of Prakriti, but is merely the Witness, and it is the intelligent principle, that is, the Knower. 
 
-The author has described a system of two ultimates, Prakriti and Purusa. This is the primary difference between Samkhya and Advaita Vedanta, which postulates a single ultimate called Brahman, which is both self and the source of the world. In the Samkhya system, Prakriti is the ultimate material cause of the world and Purusa is the self. Samkhya is a rational system derived from what is known as the Theory of Existent Effects, which is a topic in itself.  
+The author has described a system of two ultimates, Prakriti and Purusa, both of which are eternal and not produced from anything else. This is the primary difference between Samkhya and now dominant Advaita Vedanta, which postulates a single ultimate called Brahman that is both self and the source of the world. In the Samkhya system, Prakriti is the ultimate material cause while Purusa (the self) is something fundamentally different and not material at all.   
 
-The Samkhya description of the natural world as composed of five gross elements and five subtle elements represents the beginnings of scientific inquiry. Samkhya was an early, if not the first attempt to explain the world without reference to a deity or other supernatural influence. Some of the problems addressed by the Tattvas are comparable to what is now known as theoretical physics. 
+The Samkhya description of the natural world represents the beginnings of scientific inquiry. Samkhya was an early, if not the first attempt to explain the world without reference to a deity or other supernatural influence. They had an epistemology, that is theories regarding what constitutes valid knowledge, but their standards of proof were not as high as they are today. 
 
-Perhaps of greatest significance to the yoga practitioner is the distinction between coarse and subtle elements. The coarse or gross elements are perceivable by the senses, while the subtle elements are known by reasoning or by revelation. This distinction between perceivable and subtle objects is prominent in the Yoga Sutras. The gross and subtle elements should not be confused with the chemical elements that are known today. They are really the elements by which we sentient creatures experience the world. 
+The distinction between coarse and subtle elements is important to the yoga practitioner. The coarse or gross elements are perceivable by the senses, while the subtle elements are known by reasoning or by revelation. This distinction between perceivable and subtle objects is seen again and again in the Yoga Sutras. The gross and subtle elements should not be confused with the chemical elements that are known today. 
