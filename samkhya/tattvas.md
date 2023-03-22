@@ -72,12 +72,12 @@ The root prakriti is not a product of any other cause. Seven, which are Mahat, A
 ### Perspective
 The author has enumerated the twenty-five tattvas or principles that make up both the natural world and the self, along with their order of evolution. The enumeration is as follows
 - The root Prakriti
-	- Mahat
-	- Ahamkara
+	- Mahat/Buddhi
+	- Ahamkara: the I-maker
 		- 11 Indriyas:
 			- Five indriyas of cognition: eyes, ears, nose, tongue, skin
 			- Five indriyas of action: arms, legs, speech, sex, excretion
-			- Manas, having characteristics of both cognition and action
+			- Manas: the mind, having characteristics of both cognition and action.
 		- 5 Tan-matras: sound, color, mass (touch), odor, and flavor
 			- 5 Coarse or gross elements: earth, air, fire, water, akasa consisting of space and time
 - Purusa
@@ -87,15 +87,13 @@ In the state of equilibrium of the gunas, the root Prakriti is unmanifest and ex
 - they are unintelligent, and
 - they are objective and undergo transformation.
 
-Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas, that is, not material. It does not participate in the evolution of Prakriti and it is the intelligent principle, that is, the Knower, the Self. 
+Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas, that is, not material. It does not participate in the evolution of Prakriti but it is the intelligent principle, that is, the Knower, the Self. 
 
-The author has described a system of two ultimates, Prakriti and Purusa, both of which are eternal and not produced from anything else. This is the primary difference between Samkhya and the dominant philosophy of Hinduism, Advaita Vedanta. Advaita Vedanta postulates a twenty-sixth principle, a single ultimate called Brahman that is both self and the source of the world. Samkhya says that Brahman cannot be the source of the world, because it is not a material that is competent to produce it.   
+The author has described a system of two ultimates, Prakriti and Purusa, both of which are eternal. This is the primary difference between Samkhya and the dominant philosophy of Hinduism, Advaita Vedanta. Advaita Vedanta postulates a twenty-sixth principle, a single ultimate called Brahman that is both self and the source of the world. However, Samkhya maintains that Prakriti is not a product of any other cause.  
 
 The Samkhya description of the natural world represents the beginnings of scientific inquiry. Samkhya was an early, if not the first attempt to explain the world without reference to a deity or other supernatural influence. The tattvas were intended to be exhaustive, such that everything observed in nature could reasonably be considered to belong to one category or another.
 
 ### Significance for Yoga Practitioners
-Perhaps the biggest difference between the modern way of thinking and the Samkhya way of thinking is related to Buddhi, Ahamkara, and Manas. Together, these make up what we would call the mind or the thinking principle. In the Samkhya system, these are material in nature and products of Prakriti, that is, unintelligent. They are instruments, and it is Purusa that is the intelligent principle.
+The tattvas in general are a focus of concentration in yoga practice. The yogi must not only have knowledge about the Tattvas, he/she must gain the ability to recognize and discriminate them one by one in practice. This is said to lead to dispassion and ultimately to first-hand experience of Purusa, the true Self.
 
 Yoga practitioners should note the distinction between coarse and subtle objects. The coarse or gross objects are perceivable by the senses, while the subtle objects are known by reasoning or by revelation. This distinction between perceivable and subtle objects is seen again and again in the Yoga Sutras.
-
-The tattvas in general are a focus of concentration in yoga practice. The yogi must not only have knowledge about the Tattvas, he/she must gain the ability to recognize and discriminate them one by one in practice. This is said to lead to dispassion and ultimately to first-hand experience of Purusa, the true Self.
