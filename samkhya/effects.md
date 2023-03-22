@@ -16,7 +16,7 @@ The material cause is the substance out of which a thing is made. The instrument
 
 There can be no production of the non-existent, like the horn of a man.
 
-The horn of a man here is used as an example of something that is absolutely non-existent. It does not exist at any time past, present, or future, because there is nothing in existence that is capable of producing it. This is in contrast to things which are absolutely existent, like space and time, and things that exist at some times but not at others, such as the myriad objects produced in a particular form that exist for a time and eventually pass out of existence in that particular form.
+The horn of a man here is used as an example of something that is absolutely non-existent. It does not exist at any time past, present, or future, because there is nothing in existence that is capable of producing it. This is in contrast to things which are absolutely existent, such as space and time, and things that exist at some times but not at others, such as the myriad objects produced in a particular form that exist for a time and eventually pass out of existence in that particular form.
 
 ### SPS 1.115
 - *Upadana* = the material out of which anything is made, the material cause
@@ -45,8 +45,6 @@ Because the production of what is possible can be only from what is competent to
 
 And also from the effect having the nature of the cause.
 
-A chair made out of wood isn't just a chair, it's a wooden chair.
-
 ### SPS 1.121
 - *Nasah* = disappearance or destruction
 - *Karana-layah* = dissolution into the cause
@@ -55,4 +53,4 @@ Destruction of a thing is dissolution into the cause.
 
 ### Perspective 
 
-These six sutras are similar to the most basic laws of physics. This is remarkable considering the antiquity of the text. It is also remarkable that these sutras are based on observations of nature rather than scripture, and that these observations are confirmed by modern science. This further establishes the status of Samkhya as the beginning of science and the scientific way of thinking.
+These six sutras represent the most basic laws of physics. This is remarkable considering the antiquity of the text. It is also remarkable that these sutras are based on observations of nature rather than scripture, and that these observations are confirmed by modern science. This further establishes Samkhya as a rational system and the beginning of the scientific way of thinking.

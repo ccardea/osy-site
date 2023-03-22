@@ -36,6 +36,8 @@ Since the root (Prakriti) has no root, the root is rootless.
 
 Even in the case of a succession, at some point there must be a stop, so it (prakriti) is just a name (given to such a point).
 
+Succession here refers to a sequence of causation from gross material objects to their ultimate material cause.
+
 ### SPS 1.126
 - *Triguna-achetanatva-adi* = being composed of three gunas, being unconscious, etc
 - *Dvayoh* = of both 
@@ -57,7 +59,7 @@ There are eight prakritis.
 - *Tu* = only
 - *Vikarah* = transformation, modification, product
 
-Products only are sixteen. (Eleven Indriyas, five Tan-matras)
+Products only are sixteen. (Eleven Indriyas, five Coarse Elements)
 
 ### Karika 3
 - *Mula prakritih a-vikritih* = the root prakriti is not a product (of any other cause)
@@ -68,7 +70,7 @@ Products only are sixteen. (Eleven Indriyas, five Tan-matras)
 The root prakriti is not a product of any other cause. Seven, which are Mahat, Ahamkara, and five Tan-matras, are both mother principle and product. Products only are sixteen. Purusa is neither mother principle nor product.
 
 ### Perspective
-The author has enumerated the twenty-five tattvas or principles that make up both the entire natural world and the self, along with their order of evolution. The enumeration is as follows
+The author has enumerated the twenty-five tattvas or principles that make up both the natural world and the self, along with their order of evolution. The enumeration is as follows
 - The root Prakriti
 	- Mahat
 	- Ahamkara
@@ -80,15 +82,20 @@ The author has enumerated the twenty-five tattvas or principles that make up bot
 			- 5 Coarse or gross elements: earth, air, fire, water, akasa consisting of space and time
 - Purusa
 
-In the state of equilibrium of the gunas, the root Prakriti is unmanifest and exists only as pure potential. When the equilibrium is disturbed, then Prakriti begins to manifest as her products. Properties common to both Prakriti and her products are:
+In the state of equilibrium of the gunas, the root Prakriti is unmanifest and exists only as pure potential. When the equilibrium is disturbed, then Prakriti begins to manifest as her products, the material forms of nature. Properties common to both Prakriti and her products are:
 - they are composed of the gunas,
 - they are unintelligent, and
 - they are objective and undergo transformation.
 
-Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas. It does not participate in the evolution of Prakriti, but is merely the Witness, and it is the intelligent principle, that is, the Knower. 
+Purusa is the opposite of the Manifest and Unmanifest in that it is not composed of the gunas, that is, not material. It does not participate in the evolution of Prakriti and it is the intelligent principle, that is, the Knower, the Self. 
 
-The author has described a system of two ultimates, Prakriti and Purusa, both of which are eternal and not produced from anything else. This is the primary difference between Samkhya and now dominant Advaita Vedanta, which postulates a single ultimate called Brahman that is both self and the source of the world. In the Samkhya system, Prakriti is the ultimate material cause while Purusa (the self) is something fundamentally different and not material at all.   
+The author has described a system of two ultimates, Prakriti and Purusa, both of which are eternal and not produced from anything else. This is the primary difference between Samkhya and the dominant philosophy of Hinduism, Advaita Vedanta. Advaita Vedanta postulates a twenty-sixth principle, a single ultimate called Brahman that is both self and the source of the world. Samkhya says that Brahman cannot be the source of the world, because it is not a material that is competent to produce it.   
 
-The Samkhya description of the natural world represents the beginnings of scientific inquiry. Samkhya was an early, if not the first attempt to explain the world without reference to a deity or other supernatural influence. However, they lacked technology, and could rely only on their own unassisted observations and reason. 
+The Samkhya description of the natural world represents the beginnings of scientific inquiry. Samkhya was an early, if not the first attempt to explain the world without reference to a deity or other supernatural influence. The tattvas were intended to be exhaustive, such that everything observed in nature could reasonably be considered to belong to one category or another.
 
-The distinction between coarse and subtle elements is important to the yoga practitioner. The coarse or gross elements are perceivable by the senses, while the subtle elements are known by reasoning or by revelation. This distinction between perceivable and subtle objects is seen again and again in the Yoga Sutras. The gross and subtle elements should not be confused with the chemical elements that are known today. 
+### Significance for Yoga Practitioners
+Perhaps the biggest difference between the modern way of thinking and the Samkhya way of thinking is related to Buddhi, Ahamkara, and Manas. Together, these make up what we would call the mind or the thinking principle. In the Samkhya system, these are material in nature and products of Prakriti, that is, unintelligent. They are instruments, and it is Purusa that is the intelligent principle.
+
+Yoga practitioners should note the distinction between coarse and subtle objects. The coarse or gross objects are perceivable by the senses, while the subtle objects are known by reasoning or by revelation. This distinction between perceivable and subtle objects is seen again and again in the Yoga Sutras.
+
+The tattvas in general are a focus of concentration in yoga practice. The yogi must not only have knowledge about the Tattvas, he/she must gain the ability to recognize and discriminate them one by one in practice. This is said to lead to dispassion and ultimately to first-hand experience of Purusa, the true Self.
