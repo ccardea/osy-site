@@ -24,7 +24,7 @@ The Samkhya Pravachana Sutram contains a lengthy discussion of exactly what bind
 
 Conjunction of Purusa and Prakriti takes place through non-discrimination, since they are not the same.
 
-Nandalal Sinha translated *na samanatvam* as "Hence there is no similarity", but it is difficult to see any sense in that. Literally, the meaning is "not the same, not one". The sutra seems to be saying that Purusa and Prakriti are not the same thing, they are two things joined together because of aviveka - non-discrimination.
+Nandalal Sinha translated *na samanatvam* as "Hence there is no similarity", but it is difficult to see any sense in that. Literally, the meaning is "not the same, not one". The sutra seems to be saying that Purusa and Prakriti are not the same thing, they are two things joined together because of *aviveka* - non-discrimination.
 
 ### SPS 1.56
 - *Niyata-karana* = a fixed and determinate cause
