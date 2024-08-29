@@ -1,15 +1,15 @@
 ---
 layout: section
 category: yoga
-title: Asana - Postures
+title: Asana 
 ---
 ### Sutra 2.46
 *Sthira-sukham-āsanam*
 - *Sthira* = Firm, steady, fixed
-- *sukham* = Agreeable, pleasant; Easy practicable; Fit, suitable
+- *sukham* = Agreeable, pleasant; Easy, practicable; Fit, suitable
 - *āsanam* = Sitting down; A seat, place, stool; A particular posture or mode of sitting
 
-*Asana* [should be] steady and comfortable.
+Translation: *Asana* [should be] steady and comfortable.
 
 ### Sutra 2.47
 *Prayatna-śaithilya-ananta-samāpattibhyām*
@@ -18,21 +18,27 @@ title: Asana - Postures
 - *ananta* = Endless, infinite, eternal, boundless, inexhaustible
 - *samāpatti* = Meeting, encountering; assuming an original form
 
-[Accompanied by] relaxation of effort [with] the mind assuming the form of the infinite.
+Translation: [Accompanied by] relaxation of effort [and] assuming the form of the infinite.
 
-Most translators shy away from the literal meaning of *samapatti* that is used here. Patanjali himself defines *samapatti* as an advanced form of object-focused meditation (Sutra 1.41). The apparent meaning is that the yogi should relax to the point where he feels that his body has dissolved into infinity.
+The translation of *samapatti* used here, "assuming the form of", may diverge from other sources. This meaning is favored because Patanjali himself defined it as such in Sutra 1.41.  *Samapatti* can be described as a form of object-focused meditation. Notice, however, that the yogi is not instructed to focus on infinity but to assume its form, that is, to become one with it. 
 
 ### Sutra 2.48
 *Tato dvandva-anabhighātaḥ*
-- *Tato* = From that (person or place &c.), thence
+- *Tato* = From that (person or place etc.), thence
 - *dvandva* = pair, couple; pairs of opposites
-- *anabhighātaḥ* = immunity, unassailability,
+- *anabhighātaḥ* = immunity, unassailability
 
-From that, [the yogi becomes] immune to the pairs of opposites.
+From that, [the yogi remains] undisturbed by the pairs of opposites.
 
 ### Perspective
-In these three sutras, Patanjali seems to be talking about seated asana practice. He appears to be describing a simple and easy form of meditation practice that requires nothing more than becoming still and relaxing the body to the point where the yogi feels that it has dissolved into infinity. Doing only that, the yogi can attain a deep state of meditation. It's important to understand that the feeling of dissolving into infinity is a function of the mind. The yogi should not allow his mind to wander, but remain focused on relaxing not just the body but the mind as well.
+In these three sutras, Patanjali is talking about seated asana practice. He describes a simple practice that requires nothing more than becoming still and relaxing all effort to the point where the yogi becomes at one with the infinite, like a drop of water in the ocean or a grain of sand on a beach. Doing only that, the yogi attains a deep state of meditation. 
 
-Following that is the startling claim that this meditation can produce immunity from the pairs of opposites, such as hot and cold, joy and sorrow. Some yogis have been known to meditate in extremes of heat and cold to try to prove this point. The practice is more likely to succeed when used to maintain equanimity or to get a brief respite from everyday life. The ability to maintain equanimity under stress is one of the most valuable skills a person can have.
+Following that is the startling claim that, through this meditation, the yogi can remain undisturbed by the pairs of opposites, such as hot and cold, joy and sorrow. Some yogis have been known to meditate in extremes of heat and cold in order to prove this point, but the practice is probably more commonly used simply to develop and maintain equanimity or to get a brief respite from everyday life. 
 
-These sutras are fairly cut and dried, but how to apply them to a modern yoga practice is an open question. A modern practice is much more movement oriented and sometimes involves a great deal of effort, with a lot of emphasis on health and fitness. Clearly that is not what Patanjali had in mind, but that should not stop us from finding ways to apply the sutras in practice, and this can be done in different ways. The modern yogi may find that simply bringing the body and the senses to a state of relaxed steadiness in various postures will be helpful in achieving the calm, focused mind needed for the practices described later.
+These sutras are difficult to reconcile with modern yoga practices that are more movement oriented and often involve a great deal of effort. The yogi must first understand that reaching the state of deep relaxation does not happen instantaneously. Various postures and other techniques aid the yogi in relaxing tension. The yogi can sometimes get deeper into an asana by relaxing into it. He/she can learn to relax even in difficult or uncomfortable postures. Ultimately, finding and releasing tension in the body is also an effort that must be relaxed.
+
+The yogi should contemplate what exactly is meant by the term *ananta*, the infinite. Is it merely a concept or is it ultimately real? If it is ultimately real, what is its nature and how can it be observed? If the infinite is not an object that can be observed, what else could it be? By definition, *samapatti* requires an object.
+
+What does it mean to assume the form of the infinite? This is probably best understood through the metaphor of a drop in the ocean. Merging with the ocean, the drop is no longer a drop. Rather, it becomes part of and indistinguishable from the ocean, assuming its form and identity.
+
+Likewise, the yogi should contemplate what is meant by *dvandva*, a pair or couple. This is generally understood to mean pairs of opposites. Hot and cold are often used to illustrate the point, but hot and cold may not be the best examples. In Samkhya philosophy, the *jnana indriyas*, that is, the instruments of knowledge or sense organs have corresponding *tan matras* which are their objects, such as light or color, sound, taste and smell, etc. In the context of a deep state of meditation, it makes sense the the yogi would remain undisturbed by the pairs of sense organs and their objects.
