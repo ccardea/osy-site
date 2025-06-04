@@ -25,22 +25,24 @@ In contemplating the various forms of *yama*, the reader should attempt to ident
 - *mahā* = great
 - *vratam* = vow
 
+#### Translation
 [*Yama*] constitute the great vow, [which] is universal [and applicable] without regard to time, place, class, or usual practice.
 
+### Perspective
 *Samaya*, or usual practice, requires some explanation. I.K. Taimni explains:  
->In the practicing of any virtue there are occasions when doubts arise whether it is feasible or advisable to practice that particular virtue in the particular situation that has arisen. Considerations of class, place, and time or occasion may be involved in these situations ...
+>In the practicing of any virtue there are occasions when doubts arise whether it is feasible or advisable to practice that particular virtue in the particular situation that has arisen. Considerations of class, place, and time or occasion may be involved in these situations.
 
 These are sometimes difficult to decide. For example:
 - You know your friend is innocent but is going to prison unless you tell a lie. Should you lie?
 - Your country is at war with an enemy who has killed innocent people. Should you join the military and help to kill the enemy?
 - Your family is starving. Should you kill an animal to feed them?
-- Your family are wealthy business owners and you are expected to work in the business and eventually take over. Should you engage in the family business and continue to accumulate wealth?
+- Your family are wealthy business owners and you are expected to work in the business and eventually take over. Should you engage in the family business or pursue your own desires?
 
 *Maha-vratam*, the great vow, implies that the yogi must commit to these principles. This is similar to vows taken by religious orders and may have a similar purpose in addition to the benefit of a tranquil mind. Mastery of yoga is potentially very powerful and must not be used for nefarious or self-serving purposes.
 
-### Ahimsa - not-harming
+### Ahimsa - Not-Harming
 - Obvious forms: violence, killing.
-- Subtle forms: harming oneself. 
+- Subtle forms: harming oneself through unfortunate choices. 
 
 #### Sutra 2.35
 *Ahiṁsā-pratiṣṭhāyāṁ tat-sannidhau vaira-tyāgaḥ*
@@ -48,11 +50,12 @@ These are sometimes difficult to decide. For example:
 - *tat-sannidhau* = coming near to him, in his presence
 - *vaira-tyāgaḥ* = abandoning of hostility
 
+#### Translation
 When established in *ahimsa*, hostility is abandoned in his presence. 
 
 This is perhaps best illustrated by leaders like Mahatma Gandhi and Dr. Martin Luther King, Jr., who used non-violence to overcome opposition to their causes. It can also be seen in animals who are kept on a farm or in a zoo. When they learn that people are not a threat to them, they become more tame.
 
-### *Satya* - truthfulness
+### *Satya* - Truthfulness
 Obvious forms: lying to escape trouble or obtain an undeserved benefit.  
 Subtle forms: being honest with oneself, intellectual honesty.
 
@@ -63,11 +66,12 @@ Subtle forms: being honest with oneself, intellectual honesty.
 - *phala* = fruit
 - *aśrayatvam* = that on which anything depends or rests
 
+#### Translation
 When established in truthfulness, fruit [of action] depends on [the yogi's own] action.
 
 In modern terms, this is known as taking responsibility for one's actions. The yogi does not make excuses or blame others for his circumstances, but realizes that they are the result of his own actions. This is not always easy. 
 
-### *Asteya* - not stealing
+### *Asteya* - Not Stealing
 Obvious forms: not taking anything that doesn't belong to you.   
 Subtle forms: putting in a good day's work for your employer.
 
@@ -78,11 +82,12 @@ Subtle forms: putting in a good day's work for your employer.
 - *ratna* = A gem, jewel, a precious stone; anything valuable or precious
 - *upasthānam* = coming into the presence of;
 
+#### Translation
 When established in not stealing, all precious things come into his presence.
 
 This appears to be Patanjali's take on Divine Providence. When the yogi is committed to not stealing, the things that he needs come to him.
 
-### *Brahmacarya* - continence
+### *Brahmacarya* - Continence
 Obvious forms: celibacy, abstaining from sex.  
 Subtle forms: appropriate behavior with members of the opposite sex.
 
@@ -92,11 +97,12 @@ Subtle forms: appropriate behavior with members of the opposite sex.
 - *vīrya* = vigor, strength, virility, potency
 - *lābhaḥ* = gaining, obtaining, acquisition
 
+#### Translation
 When esablished in *brahmacharya* he acquires vigor.
 
 This is written from the male point of view and females may question its validity for them. For males, this is a well known principle that is practiced by athletes, military, and others.
 
-### *Aparigrahā* - absence of greed, greedlessness
+### *Aparigrahā* - Absence of Greed, Greedlessness
 Obvious forms: Not being consumed by acquisition of money.  
 Subtle forms: Seeking rewards but lacking in the effort required to obtain them.
 
