@@ -31,13 +31,13 @@ The translation of *samapatti* used here, "assuming the form of", may diverge fr
 From that, [the yogi remains] undisturbed by the pairs of opposites.
 
 ### Perspective
-In these three sutras, Patanjali is talking about seated asana practice. He describes a simple practice that requires nothing more than becoming still and relaxing all effort to the point where the yogi becomes at one with the infinite, like a drop of water in the ocean or a grain of sand on a beach. Doing only that, the yogi attains a deep state of meditation. 
+In these three sutras, Patanjali is talking about asana as a seat for meditation. He describes a simple practice that requires nothing more than becoming still and relaxing all effort to the point where the yogi becomes at one with the infinite.  Doing only that, the yogi attains a deep state of meditation. Note, however, that effort must be present before it can be relaxed.
 
 Following that is the startling claim that, through this meditation, the yogi can remain undisturbed by the pairs of opposites, such as hot and cold, joy and sorrow. Some yogis have been known to meditate in extremes of heat and cold in order to prove this point, but the practice is probably more commonly used simply to develop and maintain equanimity or to get a brief respite from everyday life. 
 
 These sutras are difficult to reconcile with modern yoga practices that are more movement oriented and often involve a great deal of effort. The yogi must first understand that reaching the state of deep relaxation does not happen instantaneously. Various postures and other techniques aid the yogi in relaxing tension. The yogi can sometimes get deeper into an asana by relaxing into it. He/she can learn to relax even in difficult or uncomfortable postures. Ultimately, finding and releasing tension in the body is also an effort that must be relaxed.
 
-The yogi should contemplate what exactly is meant by the term *ananta*, the infinite. Is it merely a concept or is it ultimately real? If it is ultimately real, what is its nature and how can it be observed? If the infinite is not an object that can be observed, what else could it be? By definition, *samapatti* requires an object.
+The yogi should contemplate what exactly is meant by the term *ananta*, the infinite. Is it merely a concept or is it ultimately real? If it is ultimately real, what is its nature and how can it be observed? If the infinite is not an object that can be observed, what else could it be? By definition, *samapatti* requires an object. 
 
 What does it mean to assume the form of the infinite? This is probably best understood through the metaphor of a drop in the ocean. Merging with the ocean, the drop is no longer a drop. Rather, it becomes part of and indistinguishable from the ocean, assuming its form and identity.
 
