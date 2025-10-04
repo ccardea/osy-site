@@ -28,49 +28,44 @@ The Yoga Sutras contains both a definition of Pratyahara (Sutra 2.54) and a desc
 
 #### Comparison of Translations
 ##### I.K. Taimni
-“Pratyahara, or abstraction is, as it were, the imitation by the senses of the mind by withdrawing themselves from their objects.
-Then follows the greatest mastery of the senses.”
+“(2.54) Pratyahara, or abstraction is, as it were, the imitation by the senses of the mind by withdrawing themselves from their objects. (2.55) Then follows the greatest mastery of the senses.”
 
 ##### Georg Feuerstein
-“Sense withdrawal is the imitation as it were of the own-form of consciousness [on the part of] the sense organs by disuniting themselves from their objects.
-Thence [results] the supreme obedience of the sense organs.”
+“(2.54) Sense withdrawal is the imitation as it were of the own-form of consciousness [on the part of] the sense organs by disuniting themselves from their objects. (2.55) Thence [results] the supreme obedience of the sense organs.”
 
 ##### Swami Hariharananda Aranya
-“When separated from their corresponding objects, the organs follow, as it were, the nature of the mind, that is called Pratyahara.
-That brings supreme control of the organs.”
+“(2.54) When separated from their corresponding objects, the organs follow, as it were, the nature of the mind, that is called Pratyahara. (2.55) That brings supreme control of the organs.”
 
 ##### Commentary of Vyasa
- Vyasa’s commentary is quoted by both Feuerstein and Swami Hariharananda Aranya.  
+Vyasa’s commentary is quoted by both Feuerstein and Swami Hariharananda Aranya.  
 >“As when the queen bee flies up and the bees swarm after her, and when she settles down, they also settle, so the senses are restricted when consciousness is restricted.”
 
 #### Analysis 
 ##### Indriyanam
-Both Taimni and Feuerstein translate the word indriyanam as “the senses” or “sense organs” The senses do two things, they imitate or resemble the “own-form of consciousness” and they withdraw or disunite themselves from their objects. To say the least, these are bewildering statements. 
-
-Swami Hariharananda Aranya has a different take. He doesn’t refer to the senses; he uses the word “organs” instead. The “organs” do only one thing, they follow (imitate, resemble) the nature of the mind. However, he suggests that this occurs only “when separated from their corresponding objects”. This is only slightly less bewildering than the translations of Taimni and Feuerstein. 
-
-The word indriya is often translated as “the senses”. Unfortunately, “the senses” doesn’t convey the whole meaning. Indriya is a word from Samkhya philosophy that translates to “instrument”, as in “the instruments of the Purusa”. What are the instruments?
+The word *indriya* is usually translated as “the senses” and pratyahara is usually considered to apply exclusively to the senses. Unfortunately, “the senses” doesn’t convey the whole meaning. Indriya is a word from Samkhya philosophy that translates to “instrument”, as in “the instruments of the Purusa”. The indriyas consist not only of the senses, but also include a second category known as the instruments of action.
 
 ###### Two Categories of Indriyas:
 - Instruments of Cognition (Jnana Indriyas): eyes, ears, nose, tongue, skin – the senses.  
 - Instruments of Action (Karma Indriyas):
-    - Locomotion: legs, feet, 
+    - Locomotion: legs, feet
     - Grasping: hands, arms, 
     - Communication: vocal cords, mouth, brain
     - Reproduction: sexual organs, 
     - Elimination: anus, bowels, stomach, etc.
 
-In addition to the ten already mentioned, the eleventh indriya is manas, having characteristics of both cognition and action. Manas is the part of the internal instrument that controls the body and the senses, and also engages in thinking.
+With this expanded definition of *indriyas*, we understand that pratyahara is not concerned exclusively with the senses and cognition, but applies to the instruments of action as well.
 
 ##### Sva-viṣaya-asamprayoge … iva-indriyāṇāṁ
-The translators mostly agree on these two phrases. Asamprayoge means “not connected with” and sva-viṣaya is “their objects”. The subject is the indriyas and “iva” is unanimously translated “as it were”.  But in spite of the unanimous agreement of the translators, “as it were” is problematic. It doesn’t mean anything to a modern reader and it seems unlikely that Patanjali would inject a meaningless phrase into a sutra.
+The translators mostly agree on these two phrases. Asamprayoge means “not connected with” and sva-viṣaya is “their objects”. The subject is the indriyas and “iva” is unanimously translated “as it were”.  But in spite of the unanimous agreement of the translators, “as it were” is problematic. It doesn’t mean anything to a modern reader.
 
-A quick check of Apte’s Sanskrit-English dictionary reveals that the primary meaning of iva is “like”, or “as if”. Using this translation, the sutra starts to make more sense, and the meaning is quite different from the example translations. The complete thought is, “as if the indriyas were disconnected from their objects”. It’s a simile or comparison, not an action. 
+A quick check of Apte’s Sanskrit-English dictionary reveals that the primary meaning of iva is “like”, or “as if”. Using this translation, the sutra starts to make more sense, and the meaning is quite different from the example translations. The complete thought is, “as if the indriyas were disconnected from their objects”. It’s a simile or comparison, not an action. This goes against the widely accepted meaning of pratyahara as an act of somehow withdrawing the senses from their objects.
 
 ##### Cittasya sva-rūpa-anukara
-There are differences among the translators regarding the technical meaning of this phrase, but the general understanding is the same. The indriyas imitate or resemble something having to do with the mind or consciousness. The word citta is well understood as referring to consciousness or the mind; cittasya  is “of the mind” or “of consciousness”. But there is disagreement regarding the term sva-rupa. Taimni just leaves it out. Feuerstein uses the literal translation, “own-form”. While further analysis of cittasya sva-rūpa would be fruitful, we need not concern ourselves with that at this point. 
+The problematic words in this phrase are *sva-rupa*. The word *citta* is well understood as referring to consciousness or the mind; *cittasya* is “of the mind” or “of consciousness”. *Anukara* means to imitate or resemble. So we have, the indriyas "imitate or resemble the *sva-rupa* of the mind". What is the *sva-rupa* of the mind?
 
-Probably the simplest and best translation comes from Swami Hariharananda Aranya. According to him, cittasya sva-rūpa means “the nature of the mind”, and the sutra translates to “… the senses follow (imitate, resemble) the nature of the mind”.  This brings us to the word anukara,  which means to imitate or resemble. What does it mean to imitate or resemble the nature of the mind? The answer comes from the Katha Upanishad and the commentary of Vyasa; when the mind is controlled, the senses[indriyas] also are controlled. 
+Swami Hariharananda Aranya translates the phrase as, the indriyas "follow (imitate or resemble) the nature of the mind", with *sva-rupa* being "the nature of". This is a difficult concept for a modern reader to grasp. What does it mean to imitate or resemble the nature of the mind? We get a hint from Katha and the commentary of Vyasa: when the mind is controlled, the senses (indriyas) are also controlled.
+
+This understanding is sufficient for the purpose of this article Full understanding of *sva-rupa* will bring greater clarity. This will be covered in a separate article.
 
 #### Translation
 When the indriyas resemble the nature of the mind, as if separated from their objects, that is Pratyahara. From that, supreme control of the indriyas.
@@ -87,6 +82,6 @@ There are two main points of view regarding how to bring the horses to heel.
 If the translation proposed here is correct, then Pratyahara is unlike the other seven limbs in the sense that the sutra doesn’t describe a practice, it describes a state of being. The perceived need to translate Sutra 2.54 as a practice may have been a factor in the mistaken translations of the past. 
 
 ### Practice
-How are we to practice the mental discipline that leads to Pratyahara? In the absence of guidance from the Yoga Sutras, we must turn to other sources. Several methods can be found in the Upanishads, but one in particular seems well suited to modern yoga practices. It is similar to what pschologists call "progressive relaxation" and "interoception", but with a couple of extra steps. This type of practice is useful, especially when the extra steps are included. But the yogi must also develop the power of discrimination spoken of in Katha in order to achieve the “ever collected” mind, which in turn results in control of the indriyas. The Yoga Sutras does provide guidance in this regard. 
+How are we to practice the mental discipline that leads to Pratyahara? In the absence of guidance from the Yoga Sutras, we must turn to other sources. Several methods can be found in the Upanishads, but one in particular seems well suited to modern yoga practices. It is similar to what psychologists call "progressive relaxation" and "interoception", but with a couple of extra steps. This type of practice is useful, especially when the extra steps are included. But the yogi must also develop the power of discrimination spoken of in Katha in order to achieve the “ever collected” mind, which in turn results in control of the indriyas. The Yoga Sutras does provide guidance in this regard. 
 
 Understanding the definition of pratyahara as it is explained in this article is a first step. Separate articles will further discuss practice, the nature of the mind, and the power of discrimination.
