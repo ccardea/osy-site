@@ -1,7 +1,7 @@
 ---
 layout: section
 category: yoga
-title: Yama - Ethical Conduct
+title: Yama - Right Conduct
 ---
 ### Sutra 2.30
 The *yama* are:  
@@ -9,10 +9,7 @@ The *yama* are:
 - *satya* = truthfulness,
 - *asteya* = not-stealing,
 - *brahmacarya* = continence,
-- *aparigrahā* = *apari* - the opposite of *graha* - grasping, greed, avarice
-
-#### Application
-In contemplating the various forms of *yama*, the reader should attempt to identify not only the obvious forms of harmful acts, but also more subtle forms. Short examples are provided. 
+- *aparigrahā* = *apari* - the opposite of *graha* - grasping, greed, avarice 
 
 ### Sutra 2.31
 *Jāti-deśa-kāla-samaya-anavacchinnāḥ sārva-bhaumā mahā-vratam*
@@ -32,17 +29,9 @@ In contemplating the various forms of *yama*, the reader should attempt to ident
 *Samaya*, or usual practice, requires some explanation. I.K. Taimni explains:  
 >In the practicing of any virtue there are occasions when doubts arise whether it is feasible or advisable to practice that particular virtue in the particular situation that has arisen. Considerations of class, place, and time or occasion may be involved in these situations.
 
-These are sometimes difficult to decide. For example:
-- You know your friend is innocent but is going to prison unless you tell a lie. Should you lie?
-- Your country is at war with an enemy who has killed innocent people. Should you join the military and help to kill the enemy?
-- Your family is starving. Should you kill an animal to feed them?
-- Your family are wealthy business owners and you are expected to work in the business and eventually take over. Should you engage in the family business or follow other pursuits that, while not as lucrative, may be more fulfilling to you?
-
 *Maha-vratam*, the great vow, implies that the yogi must commit to these principles. This is similar to vows taken by religious orders and may have a similar purpose in addition to the benefit of a tranquil mind. Mastery of yoga is potentially very powerful and must not be used for nefarious or self-serving purposes.
 
 ### Ahimsa - Not-Harming
-- Obvious forms: violence, killing.
-- Subtle forms: harming oneself through unfortunate choices. 
 
 #### Sutra 2.35
 *Ahiṁsā-pratiṣṭhāyāṁ tat-sannidhau vaira-tyāgaḥ*
@@ -56,8 +45,6 @@ When established in *ahimsa*, hostility is abandoned in his presence.
 This is perhaps best illustrated by leaders like Mahatma Gandhi and Dr. Martin Luther King, Jr., who used non-violence to overcome opposition to their causes. It can also be seen in animals who are kept on a farm or in a zoo. When they learn that people are not a threat to them, they become more tame.
 
 ### *Satya* - Truthfulness
-Obvious forms: not lying.  
-Subtle forms: being honest with oneself, intellectual honesty.
 
 #### Sutra 2.36
 *Satya-pratiṣṭhāyāṁ kriyā-phala-aśrayatvam*
@@ -72,8 +59,6 @@ When established in truthfulness, consequence depends on action.
 In modern terms, this is known as taking responsibility for one's actions. The yogi does not make excuses or blame others for his circumstances, but realizes that they are the result of his own actions. This is not always easy. 
 
 ### *Asteya* - Not Stealing
-Obvious forms: not taking anything that doesn't belong to you.   
-Subtle forms: putting in a good day's work for your employer.
 
 #### Sutra 2.37
 *Asteya-pratiṣṭhāyāṁ sarva-ratna-upasthānam*
@@ -88,8 +73,6 @@ When established in not stealing, all precious things come into his presence.
 This appears to be Patanjali's take on Divine Providence. When the yogi is committed to not stealing, the things that he needs come to him.
 
 ### *Brahmacarya* - Continence
-Obvious forms: celibacy, abstaining from sex.  
-Subtle forms: appropriate behavior with members of the opposite sex.
 
 #### Sutra 2.38
 *Brahmacarya-pratiṣṭhāyāṁ vīrya-lābhaḥ*  
@@ -103,8 +86,6 @@ When esablished in *brahmacharya* he acquires vigor.
 This is written from the male point of view and females may question its validity for them. For males, this is a well known principle that is practiced by athletes, military, and others.
 
 ### *Aparigrahā* - Absence of Greed, Greedlessness
-Obvious forms: Not being consumed by acquisition of money.  
-Subtle forms: Seeking rewards but lacking in the effort required to obtain them.
 
 #### Sutra 2.39
 *Aparigraha-sthairye janma-kathantā-sambodhaḥ*
@@ -114,6 +95,7 @@ Subtle forms: Seeking rewards but lacking in the effort required to obtain them.
 - *kathantā* = What sort or manner
 - *sambodhaḥ* = Explaining, instructing, informing; Full or correct perception 
 
-When firm in absence of greed, [the yogi] correctly perceives the manner of his existence. 
+#### Translation
+When firm in absence of greed, [the yogi] correctly perceives the manner of his birth. 
 
-This sutra is difficult to comprehend. Some translators read it as "the yogi acquires knowledge of previous births", but the lack of any perceivable cause and effect relation to greedlessness makes that translation doubtful. The problematic phrase is *janma-kathantā*. What is meant by "the manner of his existence"? Suppose a man is born economically disadvantaged, but wants to work only in the highest paying jobs. He does not understand that his background will not permit him to work in those kinds of jobs, because he simply has no opportunity to acquire the necessary skills. It is only by abandoning his inappropriate aspirations that he can begin to understand what is possible for him.
+This sutra is difficult to comprehend. Some translators read it as "the yogi acquires knowledge of previous births", but the lack of any perceivable cause and effect relation to greedlessness makes that translation doubtful. The problematic phrase is *janma-kathantā*. What is meant by "the manner of his birth"? Suppose a man is born economically disadvantaged, but wants to work only in the highest paying occupations. He does not understand that his background will not permit him to work in those kinds of jobs, because he simply has no opportunity to acquire the necessary skills. It is only by abandoning his inappropriate aspirations that he can begin to understand what is possible for him.
